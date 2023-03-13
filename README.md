@@ -1,7 +1,3 @@
 # Modern Portfolio Website
 
 
-
-
-
-
