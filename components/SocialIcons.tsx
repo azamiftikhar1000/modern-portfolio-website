@@ -40,29 +40,28 @@ function resolveIcon(entry: Tuple<string>): React.ReactNode {
   let icon: Maybe<React.ReactNode> = null;
 
   switch (type) {
-    case ContactType.linkedin:
-      icon = <LinkedinIcon {...props} />;
-      break;
+    // case ContactType.linkedin:
+    //   icon = <LinkedinIcon {...props} />;
+    //   break;
 
-    case ContactType.twitter:
-      icon = <TwitterIcon {...props} />;
-      break;
+    // case ContactType.twitter:
+    //   icon = <TwitterIcon {...props} />;
+    //   break;
 
     case ContactType.github:
       icon = <GithubIcon {...props} />;
       break;
 
-    case ContactType.youtube:
-      icon = <YoutubeIcon {...props} />;
-      break;
+    // case ContactType.youtube:
+    //   icon = <YoutubeIcon {...props} />;
+    //   break;
 
     case ContactType.email:
       icon = <MailIcon {...props} />;
       break;
 
-    case ContactType.buymeacoffee:
-      icon = <BuymeacoffeeIcon {...props} />;
-      break;
+  
+
     default:
       break;
   }

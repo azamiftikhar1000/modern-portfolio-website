@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Karan Pratap Singh</title>
+      <title>Azam Iftikhar</title>
       <link>https://karanpratapsingh.com/blog</link>
       <description>A software engineer who values learning and growing with people, teams, and technologies.</description>
       <language>en-us</language>
-      <managingEditor>contact@karanpratapsingh.com (Karan Pratap Singh)</managingEditor>
-      <webMaster>contact@karanpratapsingh.com (Karan Pratap Singh)</webMaster>
+      <managingEditor>azamiftikhar1000@gmail.com (Azam Iftikhar)</managingEditor>
+      <webMaster>azamiftikhar1000@gmail.com (Azam Iftikhar)</webMaster>
       <lastBuildDate>Sun, 04 Sep 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://karanpratapsingh.com/tags/system-design/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://karanpratapsingh.com/blog/system-design-the-complete-course</link>
     <description>Learn how to design systems at scale and prepare for system design interviews</description>
     <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>system-design</category><category>distributedsystems</category><category>architecture</category>
   </item>
 

@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Karan Pratap Singh</title>
+      <title>Azam Iftikhar</title>
       <link>https://karanpratapsingh.com/blog</link>
       <description>A software engineer who values learning and growing with people, teams, and technologies.</description>
       <language>en-us</language>
-      <managingEditor>contact@karanpratapsingh.com (Karan Pratap Singh)</managingEditor>
-      <webMaster>contact@karanpratapsingh.com (Karan Pratap Singh)</webMaster>
+      <managingEditor>azamiftikhar1000@gmail.com (Azam Iftikhar)</managingEditor>
+      <webMaster>azamiftikhar1000@gmail.com (Azam Iftikhar)</webMaster>
       <lastBuildDate>Sun, 04 Sep 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://karanpratapsingh.com/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://karanpratapsingh.com/blog/system-design-the-complete-course</link>
     <description>Learn how to design systems at scale and prepare for system design interviews</description>
     <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>system-design</category><category>distributedsystems</category><category>architecture</category>
   </item>
 
@@ -26,7 +26,7 @@
     <link>https://karanpratapsingh.com/blog/csp-actor-model-concurrency</link>
     <description>Learn about CSP and Actor model for concurrency</description>
     <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>distributedsystems</category><category>go</category>
   </item>
 
@@ -36,7 +36,7 @@
     <link>https://karanpratapsingh.com/blog/learn-go-the-complete-course</link>
     <description>Master the fundamentals and advanced features of the Go programming language</description>
     <pubDate>Wed, 04 May 2022 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>go</category><category>tutorial</category>
   </item>
 
@@ -46,7 +46,7 @@
     <link>https://karanpratapsingh.com/blog/nats-topology</link>
     <description>Learn about NATS topology</description>
     <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>nats</category><category>architecture</category><category>distributedsystems</category>
   </item>
 
@@ -56,7 +56,7 @@
     <link>https://karanpratapsingh.com/blog/advanced-monitoring-with-nats-surveyor</link>
     <description>Learn how to monitor your NATS clusters with NATS surveyor</description>
     <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>nats</category><category>distributedsystems</category><category>monitoring</category>
   </item>
 
@@ -66,7 +66,7 @@
     <link>https://karanpratapsingh.com/blog/introduction-nats-cli</link>
     <description>Learn essential NATS CLI commands</description>
     <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>nats</category><category>tutorial</category><category>distributedsystems</category>
   </item>
 
@@ -76,7 +76,7 @@
     <link>https://karanpratapsingh.com/blog/real-time-monitoring-nats-top</link>
     <description>Monitor your NATS server in real-time nats-top</description>
     <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>nats</category><category>distributedsystems</category><category>tutorial</category><category>monitoring</category>
   </item>
 
@@ -86,7 +86,7 @@
     <link>https://karanpratapsingh.com/blog/hypertrade-distributed-cryptocurrency-trading-bot</link>
     <description>HyperTrade is a ready to deploy, distributed cryptocurrency trading bot</description>
     <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>go</category><category>typescript</category><category>react</category><category>python</category><category>kubernetes</category>
   </item>
 
@@ -96,7 +96,7 @@
     <link>https://karanpratapsingh.com/blog/nats-at-edge-with-k3s</link>
     <description>Learn to run your NATS clusters at edge with K3s</description>
     <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>nats</category><category>tutorial</category><category>distributedsystems</category>
   </item>
 
@@ -106,7 +106,7 @@
     <link>https://karanpratapsingh.com/blog/getting-started-with-nats-suse-sle</link>
     <description>Getting started with NATS on SUSE Linux Enterprise Micro</description>
     <pubDate>Tue, 15 Mar 2022 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>nats</category><category>tutorial</category><category>distributedsystems</category>
   </item>
 
@@ -116,7 +116,7 @@
     <link>https://karanpratapsingh.com/blog/graphql-subscription-at-scale-with-nats</link>
     <description>Learn how to make your GraphQL subscriptions scaleable with NATS</description>
     <pubDate>Wed, 09 Mar 2022 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>nats</category><category>go</category><category>graphql</category><category>microservices</category>
   </item>
 
@@ -126,7 +126,7 @@
     <link>https://karanpratapsingh.com/blog/pull-request-automation-with-mergify</link>
     <description>Automate your pull request workflow with Mergify</description>
     <pubDate>Tue, 08 Mar 2022 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>git</category><category>productivity</category>
   </item>
 
@@ -136,7 +136,7 @@
     <link>https://karanpratapsingh.com/blog/distributed-communication-patterns-nats</link>
     <description>Learn about different distributed messaging patterns we can implement with NATS</description>
     <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>nats</category><category>go</category><category>distributedsystems</category><category>microservices</category>
   </item>
 
@@ -146,7 +146,7 @@
     <link>https://karanpratapsingh.com/blog/embedding-nats-go</link>
     <description>Tutorial on how to embedd NATS in Go</description>
     <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>nats</category><category>go</category><category>microservices</category>
   </item>
 
@@ -156,7 +156,7 @@
     <link>https://karanpratapsingh.com/blog/top5-docker-best-practices</link>
     <description>Top 5 docker best practices for better size, security and developer experience</description>
     <pubDate>Fri, 11 Feb 2022 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>docker</category><category>devops</category>
   </item>
 
@@ -166,7 +166,7 @@
     <link>https://karanpratapsingh.com/blog/nats-with-kubernetes</link>
     <description>Learn to deploy your NATS cluster on Kubernetes</description>
     <pubDate>Thu, 03 Feb 2022 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>nats</category><category>kubernetes</category><category>opensource</category>
   </item>
 
@@ -176,7 +176,7 @@
     <link>https://karanpratapsingh.com/blog/distributed-messaging-nats</link>
     <description>Distributed messaging at scale with NATS</description>
     <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>nats</category><category>microservices</category><category>backend</category><category>opensource</category>
   </item>
 
@@ -186,7 +186,7 @@
     <link>https://karanpratapsingh.com/blog/top5-languages-2022</link>
     <description>Top 5 languages that might be great to explore in 2022</description>
     <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>beginners</category><category>productivity</category>
   </item>
 
@@ -196,7 +196,7 @@
     <link>https://karanpratapsingh.com/blog/aws-roadmap</link>
     <description>Everything that is there to learn about AWS</description>
     <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>aws</category><category>beginners</category>
   </item>
 
@@ -206,7 +206,7 @@
     <link>https://karanpratapsingh.com/blog/connecting-postgresql-gorm</link>
     <description>Learn how to connect PostgreSQL with your Go API using GORM</description>
     <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>go</category><category>postgres</category><category>docker</category>
   </item>
 
@@ -216,7 +216,7 @@
     <link>https://karanpratapsingh.com/blog/preview-environments-aws-cloudflare</link>
     <description>On demand preview environments with AWS ECS and Cloudflare</description>
     <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>aws</category><category>typescript</category><category>docker</category><category>devops</category>
   </item>
 
@@ -226,7 +226,7 @@
     <link>https://karanpratapsingh.com/blog/seeding-postgres-with-docker</link>
     <description>Learn to seed your postgres docker container efficiently</description>
     <pubDate>Sat, 13 Nov 2021 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>docker</category><category>postgres</category><category>productivity</category>
   </item>
 
@@ -236,7 +236,7 @@
     <link>https://karanpratapsingh.com/blog/auditing-unsafe-passwords</link>
     <description>Setup passwords auditing for your projects</description>
     <pubDate>Wed, 03 Nov 2021 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>aws</category><category>go</category><category>node</category>
   </item>
 
@@ -246,7 +246,7 @@
     <link>https://karanpratapsingh.com/blog/tips-code-review</link>
     <description>Tips for better code review to keep our code clean and efficient</description>
     <pubDate>Tue, 19 Oct 2021 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>git</category><category>productivity</category>
   </item>
 
@@ -256,7 +256,7 @@
     <link>https://karanpratapsingh.com/blog/optimize-node-performance-clustering</link>
     <description>Optimize your Node.js application performance with clustering</description>
     <pubDate>Fri, 01 Oct 2021 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>node</category><category>typescript</category><category>javascript</category>
   </item>
 
@@ -266,7 +266,7 @@
     <link>https://karanpratapsingh.com/blog/exposing-resources-cloudflare-argo-tunnel</link>
     <description>Exposing resources securely with Cloudflare Argo Tunnel</description>
     <pubDate>Sat, 25 Sep 2021 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>aws</category><category>terraform</category>
   </item>
 
@@ -276,7 +276,7 @@
     <link>https://karanpratapsingh.com/blog/sqs-sns-eventbridge</link>
     <description>AWS SQS vs SNS vs EventBridge, which is better for you?</description>
     <pubDate>Mon, 13 Sep 2021 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>aws</category><category>backend</category>
   </item>
 
@@ -286,7 +286,7 @@
     <link>https://karanpratapsingh.com/blog/kubernetes-development-skaffold</link>
     <description>Easy local development with Kubernetes and Skaffold</description>
     <pubDate>Tue, 07 Sep 2021 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>kubernetes</category><category>docker</category><category>go</category><category>node</category>
   </item>
 
@@ -296,7 +296,7 @@
     <link>https://karanpratapsingh.com/blog/build-rest-api-go</link>
     <description>Learn how to build a REST API with Go</description>
     <pubDate>Wed, 01 Sep 2021 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>go</category><category>beginners</category><category>tutorial</category>
   </item>
 
@@ -306,7 +306,7 @@
     <link>https://karanpratapsingh.com/blog/deploy-react-s3-cloudfront</link>
     <description>Learn how to deploy React applications to AWS S3 &amp; Cloudfront</description>
     <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>react</category><category>aws</category><category>devops</category>
   </item>
 
@@ -316,7 +316,7 @@
     <link>https://karanpratapsingh.com/blog/go-error-handling-typescript</link>
     <description>Learn about how we can handle our errors like Go with TypeScript</description>
     <pubDate>Fri, 20 Aug 2021 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>typescript</category><category>go</category><category>node</category>
   </item>
 
@@ -326,7 +326,7 @@
     <link>https://karanpratapsingh.com/blog/introduction-to-iac-terraform</link>
     <description>Introduction to Infrastructure as Code (IaC) with Terraform</description>
     <pubDate>Tue, 17 Aug 2021 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>aws</category><category>terraform</category><category>devops</category>
   </item>
 
@@ -336,7 +336,7 @@
     <link>https://karanpratapsingh.com/blog/configure-aws-cli</link>
     <description>Learn how to configure and setup your AWS CLI</description>
     <pubDate>Wed, 11 Aug 2021 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>aws</category><category>devops</category><category>beginners</category>
   </item>
 
@@ -346,7 +346,7 @@
     <link>https://karanpratapsingh.com/blog/deploying-nextjs-aws-app-runner</link>
     <description>Learn how to deploy Next.js applications on AWS App Runner</description>
     <pubDate>Fri, 06 Aug 2021 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>aws</category><category>nextjs</category><category>react</category><category>docker</category>
   </item>
 
@@ -356,7 +356,7 @@
     <link>https://karanpratapsingh.com/blog/art-of-building-small-container</link>
     <description>Learn how to build small and secure docker containers</description>
     <pubDate>Fri, 30 Jul 2021 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>docker</category><category>go</category><category>kubernetes</category><category>devops</category>
   </item>
 
@@ -366,7 +366,7 @@
     <link>https://karanpratapsingh.com/blog/dockerize-go</link>
     <description>Learn how to dockerize your Go application for development and production</description>
     <pubDate>Sat, 24 Jul 2021 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>go</category><category>docker</category><category>devops</category>
   </item>
 
@@ -376,7 +376,7 @@
     <link>https://karanpratapsingh.com/blog/vite-is-too-fast</link>
     <description>Short introduction to Vite</description>
     <pubDate>Sun, 18 Jul 2021 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>javascript</category><category>react</category><category>productivity</category>
   </item>
 
@@ -386,7 +386,7 @@
     <link>https://karanpratapsingh.com/blog/dockerize-node</link>
     <description>Learn how to dockerize your Node application for development and production</description>
     <pubDate>Tue, 13 Jul 2021 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>node</category><category>docker</category><category>devops</category><category>javascript</category>
   </item>
 
@@ -396,7 +396,7 @@
     <link>https://karanpratapsingh.com/blog/dockerize-react</link>
     <description>Learn how to dockerize your React application for development and production</description>
     <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>react</category><category>docker</category><category>javascript</category><category>devops</category>
   </item>
 
@@ -406,7 +406,7 @@
     <link>https://karanpratapsingh.com/blog/introduction-dockerize-series</link>
     <description>In this series we will learn how to dockerize your applications</description>
     <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>docker</category><category>react</category><category>go</category><category>node</category>
   </item>
 
@@ -416,7 +416,7 @@
     <link>https://karanpratapsingh.com/blog/unit-testing-go</link>
     <description>In this article let&#39;s discuss how we can write simple unit tests in Go</description>
     <pubDate>Sat, 03 Jul 2021 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>go</category>
   </item>
 
@@ -426,7 +426,7 @@
     <link>https://karanpratapsingh.com/blog/blazing-typescript-webpack-esbuild</link>
     <description>Learn how to improve your TypeScript projects with webpack and esbuild</description>
     <pubDate>Mon, 28 Jun 2021 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>typescript</category><category>node</category><category>webpack</category>
   </item>
 
@@ -436,7 +436,7 @@
     <link>https://karanpratapsingh.com/blog/introduction-go-fiber</link>
     <description>Learn how to use Go Fiber framework for your next project</description>
     <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>go</category><category>node</category>
   </item>
 
@@ -446,7 +446,7 @@
     <link>https://karanpratapsingh.com/blog/amazing-placeholder-blurhash</link>
     <description>Learn how to make amazing image placeholders with blurhash</description>
     <pubDate>Fri, 30 Oct 2020 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>react</category><category>javascript</category><category>typescript</category>
   </item>
 
@@ -456,7 +456,7 @@
     <link>https://karanpratapsingh.com/blog/private-public-routing-react</link>
     <description>Learn to setup private, public and restricted routes in React</description>
     <pubDate>Fri, 30 Oct 2020 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>react</category><category>javascript</category><category>typescript</category>
   </item>
 
@@ -466,7 +466,7 @@
     <link>https://karanpratapsingh.com/blog/arangodb-underrated</link>
     <description>Let us learn about highly available and scalable multi-model database called ArangoDB</description>
     <pubDate>Fri, 23 Oct 2020 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>node</category><category>javascript</category><category>aws</category>
   </item>
 
@@ -476,7 +476,7 @@
     <link>https://karanpratapsingh.com/blog/introduction-to-zustand</link>
     <description>Simplify your state management with Zustand which is small, fast, and scaleable</description>
     <pubDate>Tue, 13 Oct 2020 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>react</category><category>javascript</category><category>typescript</category>
   </item>
 
@@ -486,7 +486,7 @@
     <link>https://karanpratapsingh.com/blog/react-native-codepush</link>
     <description>Integrate Microsoft codepush in React Native for seamless updates</description>
     <pubDate>Wed, 13 May 2020 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>react</category><category>reactnative</category><category>javascript</category><category>devops</category>
   </item>
 
@@ -496,7 +496,7 @@
     <link>https://karanpratapsingh.com/blog/quick-package-update-react-native</link>
     <description>Guide to update Android and iOS package names in React Native</description>
     <pubDate>Sat, 11 Apr 2020 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>javascript</category><category>reactnative</category>
   </item>
 
@@ -506,7 +506,7 @@
     <link>https://karanpratapsingh.com/blog/continuous-integration-appcenter-react-native</link>
     <description>Setup continuous integration and continuous deploy with App Center for React Native</description>
     <pubDate>Sat, 28 Mar 2020 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>javascript</category><category>reactnative</category><category>devops</category>
   </item>
 
@@ -516,7 +516,7 @@
     <link>https://karanpratapsingh.com/blog/imports-module-resolver-react-native</link>
     <description>Guide for integrating module resolver in React Native projects</description>
     <pubDate>Sat, 21 Mar 2020 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>javascript</category><category>reactnative</category>
   </item>
 
@@ -526,7 +526,7 @@
     <link>https://karanpratapsingh.com/blog/sign-in-with-apple-react-native</link>
     <description>Step-by-step guide for integrating Apple sign-in using React Native</description>
     <pubDate>Mon, 16 Mar 2020 00:00:00 GMT</pubDate>
-    <author>contact@karanpratapsingh.com (Karan Pratap Singh)</author>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
     <category>javascript</category><category>reactnative</category><category>typescript</category>
   </item>
 
