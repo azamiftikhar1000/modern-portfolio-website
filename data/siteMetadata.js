@@ -6,7 +6,7 @@ const siteMetadata = {
     'A ML engineer and software developer who values learning and growing with people, teams, and technologies.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://karanpratapsingh.com',
+  siteUrl: 'https://azamiftikhar.dev',
   siteRepo: 'https://github.com/azamiftikhar1000/modern-portfolio-website',
   siteLogo: '/static/images/logo.png',
   image: '/static/avatar.jpg',
