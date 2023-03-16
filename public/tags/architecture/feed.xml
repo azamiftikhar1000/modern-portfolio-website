@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Azam Iftikhar</title>
+      <link>https://karanpratapsingh.com/blog</link>
+      <description>A software engineer who values learning and growing with people, teams, and technologies.</description>
+      <language>en-us</language>
+      <managingEditor>azamiftikhar1000@gmail.com (Azam Iftikhar)</managingEditor>
+      <webMaster>azamiftikhar1000@gmail.com (Azam Iftikhar)</webMaster>
+      <lastBuildDate>Sun, 04 Sep 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://karanpratapsingh.com/tags/architecture/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://karanpratapsingh.com/blog/system-design-the-complete-course</guid>
+    <title>System Design: The complete course</title>
+    <link>https://karanpratapsingh.com/blog/system-design-the-complete-course</link>
+    <description>Learn how to design systems at scale and prepare for system design interviews</description>
+    <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>system-design</category><category>distributedsystems</category><category>architecture</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/nats-topology</guid>
+    <title>NATS Topology</title>
+    <link>https://karanpratapsingh.com/blog/nats-topology</link>
+    <description>Learn about NATS topology</description>
+    <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>nats</category><category>architecture</category><category>distributedsystems</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,124 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Azam Iftikhar</title>
+      <link>https://karanpratapsingh.com/blog</link>
+      <description>A software engineer who values learning and growing with people, teams, and technologies.</description>
+      <language>en-us</language>
+      <managingEditor>azamiftikhar1000@gmail.com (Azam Iftikhar)</managingEditor>
+      <webMaster>azamiftikhar1000@gmail.com (Azam Iftikhar)</webMaster>
+      <lastBuildDate>Mon, 25 Apr 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://karanpratapsingh.com/tags/nats/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://karanpratapsingh.com/blog/nats-topology</guid>
+    <title>NATS Topology</title>
+    <link>https://karanpratapsingh.com/blog/nats-topology</link>
+    <description>Learn about NATS topology</description>
+    <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>nats</category><category>architecture</category><category>distributedsystems</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/advanced-monitoring-with-nats-surveyor</guid>
+    <title>Advanced Monitoring with NATS surveyor</title>
+    <link>https://karanpratapsingh.com/blog/advanced-monitoring-with-nats-surveyor</link>
+    <description>Learn how to monitor your NATS clusters with NATS surveyor</description>
+    <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>nats</category><category>distributedsystems</category><category>monitoring</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/introduction-nats-cli</guid>
+    <title>Introduction to NATS CLI</title>
+    <link>https://karanpratapsingh.com/blog/introduction-nats-cli</link>
+    <description>Learn essential NATS CLI commands</description>
+    <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>nats</category><category>tutorial</category><category>distributedsystems</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/real-time-monitoring-nats-top</guid>
+    <title>Real-time monitoring with nats-top</title>
+    <link>https://karanpratapsingh.com/blog/real-time-monitoring-nats-top</link>
+    <description>Monitor your NATS server in real-time nats-top</description>
+    <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>nats</category><category>distributedsystems</category><category>tutorial</category><category>monitoring</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/nats-at-edge-with-k3s</guid>
+    <title>NATS at edge with K3s</title>
+    <link>https://karanpratapsingh.com/blog/nats-at-edge-with-k3s</link>
+    <description>Learn to run your NATS clusters at edge with K3s</description>
+    <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>nats</category><category>tutorial</category><category>distributedsystems</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/getting-started-with-nats-suse-sle</guid>
+    <title>Getting started with NATS on SLE Micro</title>
+    <link>https://karanpratapsingh.com/blog/getting-started-with-nats-suse-sle</link>
+    <description>Getting started with NATS on SUSE Linux Enterprise Micro</description>
+    <pubDate>Tue, 15 Mar 2022 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>nats</category><category>tutorial</category><category>distributedsystems</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/graphql-subscription-at-scale-with-nats</guid>
+    <title>GraphQL subscriptions at scale with NATS</title>
+    <link>https://karanpratapsingh.com/blog/graphql-subscription-at-scale-with-nats</link>
+    <description>Learn how to make your GraphQL subscriptions scaleable with NATS</description>
+    <pubDate>Wed, 09 Mar 2022 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>nats</category><category>go</category><category>graphql</category><category>microservices</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/distributed-communication-patterns-nats</guid>
+    <title>Distributed communication patterns with NATS</title>
+    <link>https://karanpratapsingh.com/blog/distributed-communication-patterns-nats</link>
+    <description>Learn about different distributed messaging patterns we can implement with NATS</description>
+    <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>nats</category><category>go</category><category>distributedsystems</category><category>microservices</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/embedding-nats-go</guid>
+    <title>Embedding NATS in Go</title>
+    <link>https://karanpratapsingh.com/blog/embedding-nats-go</link>
+    <description>Tutorial on how to embedd NATS in Go</description>
+    <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>nats</category><category>go</category><category>microservices</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/nats-with-kubernetes</guid>
+    <title>NATS with Kubernetes</title>
+    <link>https://karanpratapsingh.com/blog/nats-with-kubernetes</link>
+    <description>Learn to deploy your NATS cluster on Kubernetes</description>
+    <pubDate>Thu, 03 Feb 2022 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>nats</category><category>kubernetes</category><category>opensource</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/distributed-messaging-nats</guid>
+    <title>Distributed messaging with NATS</title>
+    <link>https://karanpratapsingh.com/blog/distributed-messaging-nats</link>
+    <description>Distributed messaging at scale with NATS</description>
+    <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>nats</category><category>microservices</category><category>backend</category><category>opensource</category>
+  </item>
+
+    </channel>
+  </rss>

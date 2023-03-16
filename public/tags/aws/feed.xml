@@ -1,0 +1,114 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Azam Iftikhar</title>
+      <link>https://karanpratapsingh.com/blog</link>
+      <description>A software engineer who values learning and growing with people, teams, and technologies.</description>
+      <language>en-us</language>
+      <managingEditor>azamiftikhar1000@gmail.com (Azam Iftikhar)</managingEditor>
+      <webMaster>azamiftikhar1000@gmail.com (Azam Iftikhar)</webMaster>
+      <lastBuildDate>Thu, 06 Jan 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://karanpratapsingh.com/tags/aws/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://karanpratapsingh.com/blog/aws-roadmap</guid>
+    <title>AWS Roadmap</title>
+    <link>https://karanpratapsingh.com/blog/aws-roadmap</link>
+    <description>Everything that is there to learn about AWS</description>
+    <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>aws</category><category>beginners</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/preview-environments-aws-cloudflare</guid>
+    <title>Preview Environments with AWS &amp; Cloudflare</title>
+    <link>https://karanpratapsingh.com/blog/preview-environments-aws-cloudflare</link>
+    <description>On demand preview environments with AWS ECS and Cloudflare</description>
+    <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>aws</category><category>typescript</category><category>docker</category><category>devops</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/auditing-unsafe-passwords</guid>
+    <title>Auditing unsafe passwords</title>
+    <link>https://karanpratapsingh.com/blog/auditing-unsafe-passwords</link>
+    <description>Setup passwords auditing for your projects</description>
+    <pubDate>Wed, 03 Nov 2021 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>aws</category><category>go</category><category>node</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/exposing-resources-cloudflare-argo-tunnel</guid>
+    <title>Exposing resources securely with Argo Tunnel</title>
+    <link>https://karanpratapsingh.com/blog/exposing-resources-cloudflare-argo-tunnel</link>
+    <description>Exposing resources securely with Cloudflare Argo Tunnel</description>
+    <pubDate>Sat, 25 Sep 2021 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>aws</category><category>terraform</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/sqs-sns-eventbridge</guid>
+    <title>AWS SQS vs SNS vs EventBridge</title>
+    <link>https://karanpratapsingh.com/blog/sqs-sns-eventbridge</link>
+    <description>AWS SQS vs SNS vs EventBridge, which is better for you?</description>
+    <pubDate>Mon, 13 Sep 2021 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>aws</category><category>backend</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/deploy-react-s3-cloudfront</guid>
+    <title>Deploy React app to S3 &amp; Cloudfront</title>
+    <link>https://karanpratapsingh.com/blog/deploy-react-s3-cloudfront</link>
+    <description>Learn how to deploy React applications to AWS S3 &amp; Cloudfront</description>
+    <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>react</category><category>aws</category><category>devops</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/introduction-to-iac-terraform</guid>
+    <title>Introduction to Infrastructure as Code with Terraform</title>
+    <link>https://karanpratapsingh.com/blog/introduction-to-iac-terraform</link>
+    <description>Introduction to Infrastructure as Code (IaC) with Terraform</description>
+    <pubDate>Tue, 17 Aug 2021 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>aws</category><category>terraform</category><category>devops</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/configure-aws-cli</guid>
+    <title>Configuring AWS CLI</title>
+    <link>https://karanpratapsingh.com/blog/configure-aws-cli</link>
+    <description>Learn how to configure and setup your AWS CLI</description>
+    <pubDate>Wed, 11 Aug 2021 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>aws</category><category>devops</category><category>beginners</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/deploying-nextjs-aws-app-runner</guid>
+    <title>Deploying Next.js on AWS App Runner</title>
+    <link>https://karanpratapsingh.com/blog/deploying-nextjs-aws-app-runner</link>
+    <description>Learn how to deploy Next.js applications on AWS App Runner</description>
+    <pubDate>Fri, 06 Aug 2021 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>aws</category><category>nextjs</category><category>react</category><category>docker</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/arangodb-underrated</guid>
+    <title>ArangoDB is underrated!</title>
+    <link>https://karanpratapsingh.com/blog/arangodb-underrated</link>
+    <description>Let us learn about highly available and scalable multi-model database called ArangoDB</description>
+    <pubDate>Fri, 23 Oct 2020 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>node</category><category>javascript</category><category>aws</category>
+  </item>
+
+    </channel>
+  </rss>

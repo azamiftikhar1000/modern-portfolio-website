@@ -3,7 +3,7 @@ const siteMetadata = {
   author: 'Azam Iftikhar',
   headerTitle: 'Azam Iftikhar',
   description:
-    'A software engineer who values learning and growing with people, teams, and technologies.',
+    'A ML engineer and software developer who values learning and growing with people, teams, and technologies.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://karanpratapsingh.com',

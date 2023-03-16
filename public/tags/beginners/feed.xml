@@ -1,0 +1,54 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Azam Iftikhar</title>
+      <link>https://karanpratapsingh.com/blog</link>
+      <description>A software engineer who values learning and growing with people, teams, and technologies.</description>
+      <language>en-us</language>
+      <managingEditor>azamiftikhar1000@gmail.com (Azam Iftikhar)</managingEditor>
+      <webMaster>azamiftikhar1000@gmail.com (Azam Iftikhar)</webMaster>
+      <lastBuildDate>Thu, 13 Jan 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://karanpratapsingh.com/tags/beginners/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://karanpratapsingh.com/blog/top5-languages-2022</guid>
+    <title>Top 5 languages to explore in 2022</title>
+    <link>https://karanpratapsingh.com/blog/top5-languages-2022</link>
+    <description>Top 5 languages that might be great to explore in 2022</description>
+    <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>beginners</category><category>productivity</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/aws-roadmap</guid>
+    <title>AWS Roadmap</title>
+    <link>https://karanpratapsingh.com/blog/aws-roadmap</link>
+    <description>Everything that is there to learn about AWS</description>
+    <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>aws</category><category>beginners</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/build-rest-api-go</guid>
+    <title>Build a REST API with Go - For Beginners</title>
+    <link>https://karanpratapsingh.com/blog/build-rest-api-go</link>
+    <description>Learn how to build a REST API with Go</description>
+    <pubDate>Wed, 01 Sep 2021 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>go</category><category>beginners</category><category>tutorial</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/configure-aws-cli</guid>
+    <title>Configuring AWS CLI</title>
+    <link>https://karanpratapsingh.com/blog/configure-aws-cli</link>
+    <description>Learn how to configure and setup your AWS CLI</description>
+    <pubDate>Wed, 11 Aug 2021 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>aws</category><category>devops</category><category>beginners</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Azam Iftikhar</title>
+      <link>https://karanpratapsingh.com/blog</link>
+      <description>A software engineer who values learning and growing with people, teams, and technologies.</description>
+      <language>en-us</language>
+      <managingEditor>azamiftikhar1000@gmail.com (Azam Iftikhar)</managingEditor>
+      <webMaster>azamiftikhar1000@gmail.com (Azam Iftikhar)</webMaster>
+      <lastBuildDate>Sat, 25 Sep 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://karanpratapsingh.com/tags/terraform/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://karanpratapsingh.com/blog/exposing-resources-cloudflare-argo-tunnel</guid>
+    <title>Exposing resources securely with Argo Tunnel</title>
+    <link>https://karanpratapsingh.com/blog/exposing-resources-cloudflare-argo-tunnel</link>
+    <description>Exposing resources securely with Cloudflare Argo Tunnel</description>
+    <pubDate>Sat, 25 Sep 2021 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>aws</category><category>terraform</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/introduction-to-iac-terraform</guid>
+    <title>Introduction to Infrastructure as Code with Terraform</title>
+    <link>https://karanpratapsingh.com/blog/introduction-to-iac-terraform</link>
+    <description>Introduction to Infrastructure as Code (IaC) with Terraform</description>
+    <pubDate>Tue, 17 Aug 2021 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>aws</category><category>terraform</category><category>devops</category>
+  </item>
+
+    </channel>
+  </rss>

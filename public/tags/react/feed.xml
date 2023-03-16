@@ -1,0 +1,114 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Azam Iftikhar</title>
+      <link>https://karanpratapsingh.com/blog</link>
+      <description>A software engineer who values learning and growing with people, teams, and technologies.</description>
+      <language>en-us</language>
+      <managingEditor>azamiftikhar1000@gmail.com (Azam Iftikhar)</managingEditor>
+      <webMaster>azamiftikhar1000@gmail.com (Azam Iftikhar)</webMaster>
+      <lastBuildDate>Wed, 30 Mar 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://karanpratapsingh.com/tags/react/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://karanpratapsingh.com/blog/hypertrade-distributed-cryptocurrency-trading-bot</guid>
+    <title>HyperTrade - Distributed cryptocurrency trading bot</title>
+    <link>https://karanpratapsingh.com/blog/hypertrade-distributed-cryptocurrency-trading-bot</link>
+    <description>HyperTrade is a ready to deploy, distributed cryptocurrency trading bot</description>
+    <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>go</category><category>typescript</category><category>react</category><category>python</category><category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/deploy-react-s3-cloudfront</guid>
+    <title>Deploy React app to S3 &amp; Cloudfront</title>
+    <link>https://karanpratapsingh.com/blog/deploy-react-s3-cloudfront</link>
+    <description>Learn how to deploy React applications to AWS S3 &amp; Cloudfront</description>
+    <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>react</category><category>aws</category><category>devops</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/deploying-nextjs-aws-app-runner</guid>
+    <title>Deploying Next.js on AWS App Runner</title>
+    <link>https://karanpratapsingh.com/blog/deploying-nextjs-aws-app-runner</link>
+    <description>Learn how to deploy Next.js applications on AWS App Runner</description>
+    <pubDate>Fri, 06 Aug 2021 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>aws</category><category>nextjs</category><category>react</category><category>docker</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/vite-is-too-fast</guid>
+    <title>Vite is too fast!</title>
+    <link>https://karanpratapsingh.com/blog/vite-is-too-fast</link>
+    <description>Short introduction to Vite</description>
+    <pubDate>Sun, 18 Jul 2021 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>javascript</category><category>react</category><category>productivity</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/dockerize-react</guid>
+    <title>Dockerize your React app</title>
+    <link>https://karanpratapsingh.com/blog/dockerize-react</link>
+    <description>Learn how to dockerize your React application for development and production</description>
+    <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>react</category><category>docker</category><category>javascript</category><category>devops</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/introduction-dockerize-series</guid>
+    <title>Introduction to Dockerize series</title>
+    <link>https://karanpratapsingh.com/blog/introduction-dockerize-series</link>
+    <description>In this series we will learn how to dockerize your applications</description>
+    <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>docker</category><category>react</category><category>go</category><category>node</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/amazing-placeholder-blurhash</guid>
+    <title>Amazing image placeholders with blurhash</title>
+    <link>https://karanpratapsingh.com/blog/amazing-placeholder-blurhash</link>
+    <description>Learn how to make amazing image placeholders with blurhash</description>
+    <pubDate>Fri, 30 Oct 2020 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>react</category><category>javascript</category><category>typescript</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/private-public-routing-react</guid>
+    <title>Private, Public and Restricted routes in React</title>
+    <link>https://karanpratapsingh.com/blog/private-public-routing-react</link>
+    <description>Learn to setup private, public and restricted routes in React</description>
+    <pubDate>Fri, 30 Oct 2020 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>react</category><category>javascript</category><category>typescript</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/introduction-to-zustand</guid>
+    <title>Simplify your store! A brief introduction to Zustand</title>
+    <link>https://karanpratapsingh.com/blog/introduction-to-zustand</link>
+    <description>Simplify your state management with Zustand which is small, fast, and scaleable</description>
+    <pubDate>Tue, 13 Oct 2020 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>react</category><category>javascript</category><category>typescript</category>
+  </item>
+
+  <item>
+    <guid>https://karanpratapsingh.com/blog/react-native-codepush</guid>
+    <title>Update your React Native apps seamlessly using Microsoft&#39;s CodePush</title>
+    <link>https://karanpratapsingh.com/blog/react-native-codepush</link>
+    <description>Integrate Microsoft codepush in React Native for seamless updates</description>
+    <pubDate>Wed, 13 May 2020 00:00:00 GMT</pubDate>
+    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
+    <category>react</category><category>reactnative</category><category>javascript</category><category>devops</category>
+  </item>
+
+    </channel>
+  </rss>
