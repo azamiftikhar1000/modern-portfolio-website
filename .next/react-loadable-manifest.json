@@ -1,0 +1,8 @@
+{
+  "../components/ClientReload.tsx -> socket.io-client": {
+    "id": "../components/ClientReload.tsx -> socket.io-client",
+    "files": [
+      "static/chunks/node_modules_socket_io-client_build_esm_index_js.js"
+    ]
+  }
+}

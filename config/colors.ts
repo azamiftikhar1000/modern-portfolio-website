@@ -4,6 +4,7 @@ export const Colors = {
   python: '#4B8BBE',
   typescript: '#234A84',
   javascript: '#F7DF1E',
+  pinescript: '#764ABC',
 
   // Frontend
   web: '#2D2D2D',
@@ -19,6 +20,7 @@ export const Colors = {
   webpack: '#8DD6F9',
   babel: '#F5DB53',
   redux: '#764ABC',
+  
 
   // Mobile
   reactnative: '#2D2D2D',

@@ -6,6 +6,7 @@ export enum Stack {
   typescript,
   javascript,
   python,
+  pinescript,
 
   // Frontend
   react,
@@ -53,6 +54,7 @@ export const WorkStack = [
   Stack.redis,
   Stack.arangodb,
   Stack.reactnative,
+  Stack.pinescript,
 ];
 
 type StackInfoMap = {
@@ -140,5 +142,11 @@ export const StackInfo: Record<Stack, StackInfoMap> = {
   [Stack.terraform]: {
     value: 'Terraform',
     color: Colors.terraform,
+    
+  },
+  [Stack.pinescript]: {
+    value: 'Pinescript',
+    color: Colors.pinescript,
+    
   },
 };
