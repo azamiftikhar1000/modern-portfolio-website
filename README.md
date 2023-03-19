@@ -4,4 +4,4 @@ This portfolio was built on top of [Tailwind Next JS Starter Blog](https://githu
 
 ## Live website
 
-[Demo webiste ](https://azamiftikhar.dev)
+[ Demo webiste ](https://azamiftikhar.dev)
