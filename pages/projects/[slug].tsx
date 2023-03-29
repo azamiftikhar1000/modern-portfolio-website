@@ -102,7 +102,7 @@ export default function Project({
       <H1 className='lg:text-5x mb-4 text-3xl font-bold dark:text-white'>
         {title}
       </H1>
-      <p className='mb-4 font-light'>{description}</p>
+      <p className='mb-4 font-light' style={{ whiteSpace: "pre-line" }}>{description}</p>
 
       <H2>Stack</H2>
       <StackList stack={stack} />

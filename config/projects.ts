@@ -27,7 +27,7 @@ export interface Project {
   stack: Stack[];
   dimensions?: Tuple<number>; // Tuple of [height, width]
   screenshots: string[];
-  deployment: Deployment;
+  deployment?: Deployment;
   subProjects: SubProject[];
 }
 
@@ -55,26 +55,32 @@ export const projects: Project[] = [
     subProjects: [],
   },
   {
-    title: 'Peapods',
-    slug: 'peapods',
-    banner: '/static/projects/peapods/banner.png',
-    website: 'https://peapods.com',
-    description: `Peapods is a new type of decentralized social network that values real human interaction. The platform helps you become closer with your friends and make new ones. We value kindness, friendship, user privacy, and genuine connection. Together we can cure boredom, conquer loneliness, and fulfill the original promise of the internet to connect us in ways that matter.`,
-    shortDescription:
-      'Peapods is a new type of decentralized social network that values real human interaction.',
+    title: 'RL for automatic selection and prioritization',
+    slug: 'RL-for-automatic-selection-and-prioritization',
+    banner: '/static/projects/rl-for-automatic-selection-and-prioritization/banner.png',
+    website: '#',
+    description: `Continuous Integration (CI) is a development practice where code changes are frequently integrated into a shared repository, and tests are run automatically to detect any issues. However, as the codebase grows larger and more complex, running all tests for every code change becomes time-consuming, leading to delays in developer feedback.
+    
+    The RL agent interacts with the CI system and selects and prioritizes the most relevant test cases, using feedback from the system to improve its performance. The agent's objective is to minimize the round-trip time between code commits and feedback on test failures.
+    
+    To achieve this, the agent maximizes a reward function based on factors such as the severity of past test failures, the frequency of code changes, and the execution time of the test cases. The agent learns from historical test results and code changes to improve its performance.
+    
+    The RL algorithm was trained on a dataset of historical test results and code changes, and its effectiveness is evaluated using an independent set of test cases.
+    
+    Overall, the RL algorithm for test case selection and prioritization significantly reduced the time taken for feedback on code changes, lead to a more efficient and effective CI process.
+  `,
     repository: null,
     stack: [
-      Stack.javascript,
-      Stack.react,
-      Stack.node,
-      Stack.graphql,
+      Stack.tf,
+      Stack.rl,
+      Stack.ml,
       Stack.aws,
-      Stack.arangodb,
+      Stack.python,
     ],
-    screenshots: [],
-    deployment: {
-      web: 'https://peapods.com',
-    },
+    dimensions: [360, 1040],
+    screenshots: [
+      '/static/projects/rl-for-automatic-selection-and-prioritization/banner.png'
+    ],
     subProjects: [],
   },
   {

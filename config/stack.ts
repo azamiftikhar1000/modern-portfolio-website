@@ -35,6 +35,11 @@ export enum Stack {
   docker,
   kubernetes,
   terraform,
+
+ //Data science
+ ml,
+  rl,
+  tf,
 }
 
 export const WorkStack = [
@@ -149,4 +154,20 @@ export const StackInfo: Record<Stack, StackInfoMap> = {
     color: Colors.pinescript,
     
   },
-};
+  [Stack.ml]: {
+    value: 'Machine learning',
+    color: Colors.ml,
+    
+  }
+,
+  [Stack.rl]: {
+    value: 'Reinforcement Learning',
+    color: Colors.rl,
+    
+  },
+
+  [Stack.tf]: {
+    value: 'Tensorflow',
+    color: Colors.tf,
+    
+  },};

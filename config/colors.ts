@@ -5,7 +5,10 @@ export const Colors = {
   typescript: '#234A84',
   javascript: '#F7DF1E',
   pinescript: '#764ABC',
-
+  //Data science 
+  ml: '#FFDD00',
+  rl: '#0C76E2',
+  tf:'#059F00',
   // Frontend
   web: '#2D2D2D',
   react: '#61DAF6',
