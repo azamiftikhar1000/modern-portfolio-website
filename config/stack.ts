@@ -40,6 +40,7 @@ export enum Stack {
  ml,
   rl,
   tf,
+  ga,
 }
 
 export const WorkStack = [
@@ -60,6 +61,7 @@ export const WorkStack = [
   Stack.arangodb,
   Stack.reactnative,
   Stack.pinescript,
+  Stack.ga,
 ];
 
 type StackInfoMap = {
@@ -147,6 +149,12 @@ export const StackInfo: Record<Stack, StackInfoMap> = {
   [Stack.terraform]: {
     value: 'Terraform',
     color: Colors.terraform,
+    
+  }
+  ,
+  [Stack.ga]: {
+    value: 'Genitic Algorithim',
+    color: Colors.GA,
     
   },
   [Stack.pinescript]: {

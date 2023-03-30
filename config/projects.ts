@@ -84,36 +84,33 @@ export const projects: Project[] = [
     subProjects: [],
   },
   {
-    title: 'Proximity',
-    slug: 'proximity',
-    website: 'https://proximity-mobile.web.app',
-    banner: '/static/projects/proximity/banner.jpeg',
-    description:
-      'An open source social media app that does not use your data against you.',
-    repository: 'https://github.com/azamiftikhar1000/Proximity',
+    title: 'Developed and implemented a storage location assignment for a warehouse',
+    slug: 'Developed and implemented a storage location assignment for a warehouse',
+    website: '#',
+    banner: '/static/projects/warehouse-management/banner.png',
+    shortDescription:'Solved the Storage Location Assignment problem for a warehouse, decreased the travel time and delay caused by traffic congestion, using NSGA-II and SPEA 2' ,
+
+    description:`We successfully developed and implemented a storage location assignment method that aimed to reduce travel time and delay caused by traffic congestion for order pickers in the warehouse.
+
+    Through the use of a multi-objective mathematical model, we were able to identify highly correlated items and place them closer to the dock, thus reducing travel time for order pickers and addressing the issue of traffic congestion.
+    
+    To solve the non-deterministic polynomial-time hard (NP-hard) storage location assignment problem, we utilized Multi-Objective Evolutionary Algorithms NSGA-II and SPEA 2 to create clusters. We then used the SKU Assignment Algorithm to assign SKUs to storage locations based on the model.
+    
+    The results of the final generations were analyzed, and we selected five solutions using K-means clustering to compare the results obtained from NSGA-II and SPEA 2 Algorithms with the random storage method.
+    
+    Furthermore, we conducted a simulation study to assess the impact of traffic congestion under different scenarios.` ,
+    
+    repository: '',
+    dimensions: [400, 760],
     stack: [
-      Stack.typescript,
-      Stack.reactnative,
-      Stack.node,
-      Stack.graphql,
-      Stack.postgres,
+      Stack.python,
+      Stack.ga,
     ],
     screenshots: [
-      'https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/projects%2Fproximity%2Fscreenshots%2Fscreenshot-1.png?alt=media&token=a9b5a094-8a16-4c84-af16-65bf2378d7d9',
-      'https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/projects%2Fproximity%2Fscreenshots%2Fscreenshot-2.png?alt=media&token=fca4c07e-c922-445e-a259-a06c038e0974',
-      'https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/projects%2Fproximity%2Fscreenshots%2Fscreenshot-3.png?alt=media&token=31dafec8-fc20-4d6f-96e7-312a4c847ac5',
-      'https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/projects%2Fproximity%2Fscreenshots%2Fscreenshot-4-.png?alt=media&token=4067a226-5b7b-4ffa-859e-401323a864c4',
-      'https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/projects%2Fproximity%2Fscreenshots%2Fscreenshot-5.png?alt=media&token=c349a959-ab54-4e2d-8f8e-2393466bb5c0',
-      'https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/projects%2Fproximity%2Fscreenshots%2Fscreenshot-6.png?alt=media&token=f2c25e34-38e8-4886-b247-dc6f270c36d0',
-      'https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/projects%2Fproximity%2Fscreenshots%2Fscreenshot-7.png?alt=media&token=2af284b0-4266-4072-a900-cc9ef8521f74',
-      'https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/projects%2Fproximity%2Fscreenshots%2Fscreenshot-8.png?alt=media&token=e041e4bd-50fc-49a7-8a22-f6e98d3e1bc6',
+      '/static/projects/warehouse-management/banner.png',
+      '/static/projects/warehouse-management/banner2.png',
+      '/static/projects/warehouse-management/banner3.png',
     ],
-    deployment: {
-      web: 'https://proximity-mobile.web.app',
-      android:
-        'https://play.google.com/store/apps/details?id=com.proximity.app',
-      ios: 'https://apps.apple.com/us/app/proximity-app/id1489041006',
-    },
     subProjects: [],
   },
   {

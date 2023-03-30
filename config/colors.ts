@@ -9,6 +9,7 @@ export const Colors = {
   ml: '#FFDD00',
   rl: '#0C76E2',
   tf:'#059F00',
+  GA:'#D44638',
   // Frontend
   web: '#2D2D2D',
   react: '#61DAF6',
