@@ -173,56 +173,5 @@ export const projects: Project[] = [
     ],
     subProjects: [
     ],
-  },
-  {
-    title: 'Celebrify',
-    slug: 'celebrify',
-    website: 'https://celebrify.in',
-    banner: '/static/projects/celebrify/banner.jpeg',
-    description:
-      'Get personalized videos from your favorite celebrities at just one click. Request personalized video messages for your friends, family, loved ones or even yourself. Be it a doubt or even a special wish from your favorite celebrity.',
-    repository: null,
-    stack: [Stack.react, Stack.reactnative, Stack.django, Stack.aws],
-    dimensions: [450, 270],
-    screenshots: [
-      'https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/projects%2Fcelebrify%2Fscreenshots%2Fscreenshot-1.png?alt=media&token=93fffd15-08ca-4ffc-8fce-47bc269237ee',
-      'https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/projects%2Fcelebrify%2Fscreenshots%2Fscreenshot-2.png?alt=media&token=fd597baf-3aaa-4ad8-abe9-1d42c628285f',
-      'https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/projects%2Fcelebrify%2Fscreenshots%2Fscreenshot-3.png?alt=media&token=779ea419-adb0-4f62-8ef7-dcfa8d9a4228',
-      'https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/projects%2Fcelebrify%2Fscreenshots%2Fscreenshot-4.png?alt=media&token=e77b8603-4885-4eed-b108-f9f4bb751796',
-      'https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/projects%2Fcelebrify%2Fscreenshots%2Fscreenshot-5.png?alt=media&token=94f43db6-c835-404d-ab35-85ddad624a06',
-      'https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/projects%2Fcelebrify%2Fscreenshots%2Fscreenshot-6.png?alt=media&token=7794ae58-7e3a-45c5-a47a-6c86b909e423',
-    ],
-    deployment: {
-      web: 'https://celebrify.in',
-      android:
-        'https://play.google.com/store/apps/details?id=com.celebrify.app',
-      ios: 'https://apps.apple.com/us/app/celebrify-app/id1469588198',
-    },
-    subProjects: [],
-  },
-  {
-    title: 'KCards',
-    slug: 'kcards',
-    banner: '/static/projects/kcards/banner.jpeg',
-    description:
-      'KCards is your one-stop replacement for paper cards. KCards help you to easily share your cards with other users and get real-time analytics on the shared cards.',
-    repository: 'https://github.com/azamiftikhar1000/KCards',
-    stack: [Stack.react, Stack.reactnative, Stack.node, Stack.mongo],
-    dimensions: [450, 270],
-    screenshots: [
-      'https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/projects%2Fkcards%2Fscreenshots%2Fscreenshot-1.png?alt=media&token=5de462e1-7368-49fd-843f-abd4cccb3317',
-      'https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/projects%2Fkcards%2Fscreenshots%2Fscreenshot-2.png?alt=media&token=30061b0b-5bed-47d5-bf43-16c44cf076e0',
-      'https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/projects%2Fkcards%2Fscreenshots%2Fscreenshot-3.png?alt=media&token=350180a1-f559-45e7-b887-dafd2cf9eb78',
-      'https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/projects%2Fkcards%2Fscreenshots%2Fscreenshot-4.png?alt=media&token=574212b2-cf17-4e11-b8c0-a3a81473aeec',
-      'https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/projects%2Fkcards%2Fscreenshots%2Fscreenshot-5.png?alt=media&token=ecff0737-b3b5-45cc-8d85-97b684f9c4b7',
-      'https://firebasestorage.googleapis.com/v0/b/portfolio-8fa71.appspot.com/o/projects%2Fkcards%2Fscreenshots%2Fscreenshot-6.png?alt=media&token=b49f3f8e-6596-47ab-b3e6-872f5f67d7fe',
-    ],
-    deployment: {
-      web: 'https://kcards-server.herokuapp.com',
-      android: 'https://play.google.com/store/apps/details?id=com.kcards',
-      ios: 'https://itunes.apple.com/us/app/kcards/id1461733524',
-    },
-    website: 'https://kcards-server.herokuapp.com',
-    subProjects: [],
-  },
+  }
 ];
