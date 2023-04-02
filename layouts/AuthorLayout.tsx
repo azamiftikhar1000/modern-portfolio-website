@@ -45,7 +45,7 @@ export default function AuthorLayout({ children, frontMatter }: Props) {
             <p className='mt-8'>
               <a
                 className='!font-normal !text-black !no-underline dark:!text-white'
-                href={resume}
+                href='./contact'
                 target='_blank'
                 rel='noreferrer'
               >
@@ -57,7 +57,7 @@ export default function AuthorLayout({ children, frontMatter }: Props) {
                   strokeWidth={2}
                   color={resumeColor}
                 >
-                  Resume
+                  Contact
                 </RoughNotation>
               </a>
               <h2 className='mt-8 mb-4 text-2xl font-semibold dark:text-white'>
