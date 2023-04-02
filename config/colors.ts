@@ -10,6 +10,7 @@ export const Colors = {
   rl: '#0C76E2',
   tf:'#059F00',
   GA:'#D44638',
+  cv:'#61DAF6',
   // Frontend
   web: '#2D2D2D',
   react: '#61DAF6',

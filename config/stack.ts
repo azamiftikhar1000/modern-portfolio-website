@@ -41,6 +41,7 @@ export enum Stack {
   rl,
   tf,
   ga,
+  cv,
 }
 
 export const WorkStack = [
@@ -62,6 +63,7 @@ export const WorkStack = [
   Stack.reactnative,
   Stack.pinescript,
   Stack.ga,
+  Stack.cv
 ];
 
 type StackInfoMap = {
@@ -178,4 +180,11 @@ export const StackInfo: Record<Stack, StackInfoMap> = {
     value: 'Tensorflow',
     color: Colors.tf,
     
-  },};
+  },
+  [Stack.cv]: {
+    value: 'computer vision',
+    color: Colors.cv,
+    
+  },
+
+};
