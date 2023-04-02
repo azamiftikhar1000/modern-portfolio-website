@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Azam Iftikhar</title>
-      <link>https://karanpratapsingh.com/blog</link>
-      <description>A software engineer who values learning and growing with people, teams, and technologies.</description>
+      <link>https://azamiftikhar.dev/blog</link>
+      <description>A ML engineer and software developer who values learning and growing with people, teams, and technologies.</description>
       <language>en-us</language>
       <managingEditor>azamiftikhar1000@gmail.com (Azam Iftikhar)</managingEditor>
       <webMaster>azamiftikhar1000@gmail.com (Azam Iftikhar)</webMaster>
       <lastBuildDate>Sun, 04 Sep 2022 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://karanpratapsingh.com/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://azamiftikhar.dev/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://karanpratapsingh.com/blog/system-design-the-complete-course</guid>
+    <guid>https://azamiftikhar.dev/blog/system-design-the-complete-course</guid>
     <title>System Design: The complete course</title>
-    <link>https://karanpratapsingh.com/blog/system-design-the-complete-course</link>
+    <link>https://azamiftikhar.dev/blog/system-design-the-complete-course</link>
     <description>Learn how to design systems at scale and prepare for system design interviews</description>
     <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -21,9 +21,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/csp-actor-model-concurrency</guid>
+    <guid>https://azamiftikhar.dev/blog/csp-actor-model-concurrency</guid>
     <title>CSP vs Actor model for concurrency</title>
-    <link>https://karanpratapsingh.com/blog/csp-actor-model-concurrency</link>
+    <link>https://azamiftikhar.dev/blog/csp-actor-model-concurrency</link>
     <description>Learn about CSP and Actor model for concurrency</description>
     <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -31,9 +31,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/learn-go-the-complete-course</guid>
+    <guid>https://azamiftikhar.dev/blog/learn-go-the-complete-course</guid>
     <title>Learn Go: The complete course</title>
-    <link>https://karanpratapsingh.com/blog/learn-go-the-complete-course</link>
+    <link>https://azamiftikhar.dev/blog/learn-go-the-complete-course</link>
     <description>Master the fundamentals and advanced features of the Go programming language</description>
     <pubDate>Wed, 04 May 2022 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -41,9 +41,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/nats-topology</guid>
+    <guid>https://azamiftikhar.dev/blog/nats-topology</guid>
     <title>NATS Topology</title>
-    <link>https://karanpratapsingh.com/blog/nats-topology</link>
+    <link>https://azamiftikhar.dev/blog/nats-topology</link>
     <description>Learn about NATS topology</description>
     <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -51,9 +51,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/advanced-monitoring-with-nats-surveyor</guid>
+    <guid>https://azamiftikhar.dev/blog/advanced-monitoring-with-nats-surveyor</guid>
     <title>Advanced Monitoring with NATS surveyor</title>
-    <link>https://karanpratapsingh.com/blog/advanced-monitoring-with-nats-surveyor</link>
+    <link>https://azamiftikhar.dev/blog/advanced-monitoring-with-nats-surveyor</link>
     <description>Learn how to monitor your NATS clusters with NATS surveyor</description>
     <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -61,9 +61,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/introduction-nats-cli</guid>
+    <guid>https://azamiftikhar.dev/blog/introduction-nats-cli</guid>
     <title>Introduction to NATS CLI</title>
-    <link>https://karanpratapsingh.com/blog/introduction-nats-cli</link>
+    <link>https://azamiftikhar.dev/blog/introduction-nats-cli</link>
     <description>Learn essential NATS CLI commands</description>
     <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -71,9 +71,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/real-time-monitoring-nats-top</guid>
+    <guid>https://azamiftikhar.dev/blog/real-time-monitoring-nats-top</guid>
     <title>Real-time monitoring with nats-top</title>
-    <link>https://karanpratapsingh.com/blog/real-time-monitoring-nats-top</link>
+    <link>https://azamiftikhar.dev/blog/real-time-monitoring-nats-top</link>
     <description>Monitor your NATS server in real-time nats-top</description>
     <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -81,9 +81,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/hypertrade-distributed-cryptocurrency-trading-bot</guid>
+    <guid>https://azamiftikhar.dev/blog/hypertrade-distributed-cryptocurrency-trading-bot</guid>
     <title>HyperTrade - Distributed cryptocurrency trading bot</title>
-    <link>https://karanpratapsingh.com/blog/hypertrade-distributed-cryptocurrency-trading-bot</link>
+    <link>https://azamiftikhar.dev/blog/hypertrade-distributed-cryptocurrency-trading-bot</link>
     <description>HyperTrade is a ready to deploy, distributed cryptocurrency trading bot</description>
     <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -91,9 +91,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/nats-at-edge-with-k3s</guid>
+    <guid>https://azamiftikhar.dev/blog/nats-at-edge-with-k3s</guid>
     <title>NATS at edge with K3s</title>
-    <link>https://karanpratapsingh.com/blog/nats-at-edge-with-k3s</link>
+    <link>https://azamiftikhar.dev/blog/nats-at-edge-with-k3s</link>
     <description>Learn to run your NATS clusters at edge with K3s</description>
     <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -101,9 +101,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/getting-started-with-nats-suse-sle</guid>
+    <guid>https://azamiftikhar.dev/blog/getting-started-with-nats-suse-sle</guid>
     <title>Getting started with NATS on SLE Micro</title>
-    <link>https://karanpratapsingh.com/blog/getting-started-with-nats-suse-sle</link>
+    <link>https://azamiftikhar.dev/blog/getting-started-with-nats-suse-sle</link>
     <description>Getting started with NATS on SUSE Linux Enterprise Micro</description>
     <pubDate>Tue, 15 Mar 2022 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -111,9 +111,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/graphql-subscription-at-scale-with-nats</guid>
+    <guid>https://azamiftikhar.dev/blog/graphql-subscription-at-scale-with-nats</guid>
     <title>GraphQL subscriptions at scale with NATS</title>
-    <link>https://karanpratapsingh.com/blog/graphql-subscription-at-scale-with-nats</link>
+    <link>https://azamiftikhar.dev/blog/graphql-subscription-at-scale-with-nats</link>
     <description>Learn how to make your GraphQL subscriptions scaleable with NATS</description>
     <pubDate>Wed, 09 Mar 2022 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -121,9 +121,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/pull-request-automation-with-mergify</guid>
+    <guid>https://azamiftikhar.dev/blog/pull-request-automation-with-mergify</guid>
     <title>Pull Request automation with Mergify</title>
-    <link>https://karanpratapsingh.com/blog/pull-request-automation-with-mergify</link>
+    <link>https://azamiftikhar.dev/blog/pull-request-automation-with-mergify</link>
     <description>Automate your pull request workflow with Mergify</description>
     <pubDate>Tue, 08 Mar 2022 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -131,9 +131,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/distributed-communication-patterns-nats</guid>
+    <guid>https://azamiftikhar.dev/blog/distributed-communication-patterns-nats</guid>
     <title>Distributed communication patterns with NATS</title>
-    <link>https://karanpratapsingh.com/blog/distributed-communication-patterns-nats</link>
+    <link>https://azamiftikhar.dev/blog/distributed-communication-patterns-nats</link>
     <description>Learn about different distributed messaging patterns we can implement with NATS</description>
     <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -141,9 +141,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/embedding-nats-go</guid>
+    <guid>https://azamiftikhar.dev/blog/embedding-nats-go</guid>
     <title>Embedding NATS in Go</title>
-    <link>https://karanpratapsingh.com/blog/embedding-nats-go</link>
+    <link>https://azamiftikhar.dev/blog/embedding-nats-go</link>
     <description>Tutorial on how to embedd NATS in Go</description>
     <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -151,9 +151,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/top5-docker-best-practices</guid>
+    <guid>https://azamiftikhar.dev/blog/top5-docker-best-practices</guid>
     <title>Top 5 Docker Best Practices</title>
-    <link>https://karanpratapsingh.com/blog/top5-docker-best-practices</link>
+    <link>https://azamiftikhar.dev/blog/top5-docker-best-practices</link>
     <description>Top 5 docker best practices for better size, security and developer experience</description>
     <pubDate>Fri, 11 Feb 2022 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -161,9 +161,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/nats-with-kubernetes</guid>
+    <guid>https://azamiftikhar.dev/blog/nats-with-kubernetes</guid>
     <title>NATS with Kubernetes</title>
-    <link>https://karanpratapsingh.com/blog/nats-with-kubernetes</link>
+    <link>https://azamiftikhar.dev/blog/nats-with-kubernetes</link>
     <description>Learn to deploy your NATS cluster on Kubernetes</description>
     <pubDate>Thu, 03 Feb 2022 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -171,9 +171,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/distributed-messaging-nats</guid>
+    <guid>https://azamiftikhar.dev/blog/distributed-messaging-nats</guid>
     <title>Distributed messaging with NATS</title>
-    <link>https://karanpratapsingh.com/blog/distributed-messaging-nats</link>
+    <link>https://azamiftikhar.dev/blog/distributed-messaging-nats</link>
     <description>Distributed messaging at scale with NATS</description>
     <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -181,9 +181,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/top5-languages-2022</guid>
+    <guid>https://azamiftikhar.dev/blog/top5-languages-2022</guid>
     <title>Top 5 languages to explore in 2022</title>
-    <link>https://karanpratapsingh.com/blog/top5-languages-2022</link>
+    <link>https://azamiftikhar.dev/blog/top5-languages-2022</link>
     <description>Top 5 languages that might be great to explore in 2022</description>
     <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -191,9 +191,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/aws-roadmap</guid>
+    <guid>https://azamiftikhar.dev/blog/aws-roadmap</guid>
     <title>AWS Roadmap</title>
-    <link>https://karanpratapsingh.com/blog/aws-roadmap</link>
+    <link>https://azamiftikhar.dev/blog/aws-roadmap</link>
     <description>Everything that is there to learn about AWS</description>
     <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -201,9 +201,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/connecting-postgresql-gorm</guid>
+    <guid>https://azamiftikhar.dev/blog/connecting-postgresql-gorm</guid>
     <title>Connecting to PostgreSQL using GORM</title>
-    <link>https://karanpratapsingh.com/blog/connecting-postgresql-gorm</link>
+    <link>https://azamiftikhar.dev/blog/connecting-postgresql-gorm</link>
     <description>Learn how to connect PostgreSQL with your Go API using GORM</description>
     <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -211,9 +211,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/preview-environments-aws-cloudflare</guid>
+    <guid>https://azamiftikhar.dev/blog/preview-environments-aws-cloudflare</guid>
     <title>Preview Environments with AWS &amp; Cloudflare</title>
-    <link>https://karanpratapsingh.com/blog/preview-environments-aws-cloudflare</link>
+    <link>https://azamiftikhar.dev/blog/preview-environments-aws-cloudflare</link>
     <description>On demand preview environments with AWS ECS and Cloudflare</description>
     <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -221,9 +221,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/seeding-postgres-with-docker</guid>
+    <guid>https://azamiftikhar.dev/blog/seeding-postgres-with-docker</guid>
     <title>Seeding Postgres with Docker</title>
-    <link>https://karanpratapsingh.com/blog/seeding-postgres-with-docker</link>
+    <link>https://azamiftikhar.dev/blog/seeding-postgres-with-docker</link>
     <description>Learn to seed your postgres docker container efficiently</description>
     <pubDate>Sat, 13 Nov 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -231,9 +231,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/auditing-unsafe-passwords</guid>
+    <guid>https://azamiftikhar.dev/blog/auditing-unsafe-passwords</guid>
     <title>Auditing unsafe passwords</title>
-    <link>https://karanpratapsingh.com/blog/auditing-unsafe-passwords</link>
+    <link>https://azamiftikhar.dev/blog/auditing-unsafe-passwords</link>
     <description>Setup passwords auditing for your projects</description>
     <pubDate>Wed, 03 Nov 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -241,9 +241,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/tips-code-review</guid>
+    <guid>https://azamiftikhar.dev/blog/tips-code-review</guid>
     <title>Tips for Better Code Review</title>
-    <link>https://karanpratapsingh.com/blog/tips-code-review</link>
+    <link>https://azamiftikhar.dev/blog/tips-code-review</link>
     <description>Tips for better code review to keep our code clean and efficient</description>
     <pubDate>Tue, 19 Oct 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -251,9 +251,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/optimize-node-performance-clustering</guid>
+    <guid>https://azamiftikhar.dev/blog/optimize-node-performance-clustering</guid>
     <title>Optimize Node.js performance with clustering</title>
-    <link>https://karanpratapsingh.com/blog/optimize-node-performance-clustering</link>
+    <link>https://azamiftikhar.dev/blog/optimize-node-performance-clustering</link>
     <description>Optimize your Node.js application performance with clustering</description>
     <pubDate>Fri, 01 Oct 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -261,9 +261,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/exposing-resources-cloudflare-argo-tunnel</guid>
+    <guid>https://azamiftikhar.dev/blog/exposing-resources-cloudflare-argo-tunnel</guid>
     <title>Exposing resources securely with Argo Tunnel</title>
-    <link>https://karanpratapsingh.com/blog/exposing-resources-cloudflare-argo-tunnel</link>
+    <link>https://azamiftikhar.dev/blog/exposing-resources-cloudflare-argo-tunnel</link>
     <description>Exposing resources securely with Cloudflare Argo Tunnel</description>
     <pubDate>Sat, 25 Sep 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -271,9 +271,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/sqs-sns-eventbridge</guid>
+    <guid>https://azamiftikhar.dev/blog/sqs-sns-eventbridge</guid>
     <title>AWS SQS vs SNS vs EventBridge</title>
-    <link>https://karanpratapsingh.com/blog/sqs-sns-eventbridge</link>
+    <link>https://azamiftikhar.dev/blog/sqs-sns-eventbridge</link>
     <description>AWS SQS vs SNS vs EventBridge, which is better for you?</description>
     <pubDate>Mon, 13 Sep 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -281,9 +281,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/kubernetes-development-skaffold</guid>
+    <guid>https://azamiftikhar.dev/blog/kubernetes-development-skaffold</guid>
     <title>Easy Kubernetes development with Skaffold</title>
-    <link>https://karanpratapsingh.com/blog/kubernetes-development-skaffold</link>
+    <link>https://azamiftikhar.dev/blog/kubernetes-development-skaffold</link>
     <description>Easy local development with Kubernetes and Skaffold</description>
     <pubDate>Tue, 07 Sep 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -291,9 +291,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/build-rest-api-go</guid>
+    <guid>https://azamiftikhar.dev/blog/build-rest-api-go</guid>
     <title>Build a REST API with Go - For Beginners</title>
-    <link>https://karanpratapsingh.com/blog/build-rest-api-go</link>
+    <link>https://azamiftikhar.dev/blog/build-rest-api-go</link>
     <description>Learn how to build a REST API with Go</description>
     <pubDate>Wed, 01 Sep 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -301,9 +301,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/deploy-react-s3-cloudfront</guid>
+    <guid>https://azamiftikhar.dev/blog/deploy-react-s3-cloudfront</guid>
     <title>Deploy React app to S3 &amp; Cloudfront</title>
-    <link>https://karanpratapsingh.com/blog/deploy-react-s3-cloudfront</link>
+    <link>https://azamiftikhar.dev/blog/deploy-react-s3-cloudfront</link>
     <description>Learn how to deploy React applications to AWS S3 &amp; Cloudfront</description>
     <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -311,9 +311,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/go-error-handling-typescript</guid>
+    <guid>https://azamiftikhar.dev/blog/go-error-handling-typescript</guid>
     <title>Go like error handling in TypeScript</title>
-    <link>https://karanpratapsingh.com/blog/go-error-handling-typescript</link>
+    <link>https://azamiftikhar.dev/blog/go-error-handling-typescript</link>
     <description>Learn about how we can handle our errors like Go with TypeScript</description>
     <pubDate>Fri, 20 Aug 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -321,9 +321,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/introduction-to-iac-terraform</guid>
+    <guid>https://azamiftikhar.dev/blog/introduction-to-iac-terraform</guid>
     <title>Introduction to Infrastructure as Code with Terraform</title>
-    <link>https://karanpratapsingh.com/blog/introduction-to-iac-terraform</link>
+    <link>https://azamiftikhar.dev/blog/introduction-to-iac-terraform</link>
     <description>Introduction to Infrastructure as Code (IaC) with Terraform</description>
     <pubDate>Tue, 17 Aug 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -331,9 +331,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/configure-aws-cli</guid>
+    <guid>https://azamiftikhar.dev/blog/configure-aws-cli</guid>
     <title>Configuring AWS CLI</title>
-    <link>https://karanpratapsingh.com/blog/configure-aws-cli</link>
+    <link>https://azamiftikhar.dev/blog/configure-aws-cli</link>
     <description>Learn how to configure and setup your AWS CLI</description>
     <pubDate>Wed, 11 Aug 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -341,9 +341,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/deploying-nextjs-aws-app-runner</guid>
+    <guid>https://azamiftikhar.dev/blog/deploying-nextjs-aws-app-runner</guid>
     <title>Deploying Next.js on AWS App Runner</title>
-    <link>https://karanpratapsingh.com/blog/deploying-nextjs-aws-app-runner</link>
+    <link>https://azamiftikhar.dev/blog/deploying-nextjs-aws-app-runner</link>
     <description>Learn how to deploy Next.js applications on AWS App Runner</description>
     <pubDate>Fri, 06 Aug 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -351,9 +351,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/art-of-building-small-container</guid>
+    <guid>https://azamiftikhar.dev/blog/art-of-building-small-container</guid>
     <title>Art of building small containers</title>
-    <link>https://karanpratapsingh.com/blog/art-of-building-small-container</link>
+    <link>https://azamiftikhar.dev/blog/art-of-building-small-container</link>
     <description>Learn how to build small and secure docker containers</description>
     <pubDate>Fri, 30 Jul 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -361,9 +361,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/dockerize-go</guid>
+    <guid>https://azamiftikhar.dev/blog/dockerize-go</guid>
     <title>Dockerize your Go app</title>
-    <link>https://karanpratapsingh.com/blog/dockerize-go</link>
+    <link>https://azamiftikhar.dev/blog/dockerize-go</link>
     <description>Learn how to dockerize your Go application for development and production</description>
     <pubDate>Sat, 24 Jul 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -371,9 +371,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/vite-is-too-fast</guid>
+    <guid>https://azamiftikhar.dev/blog/vite-is-too-fast</guid>
     <title>Vite is too fast!</title>
-    <link>https://karanpratapsingh.com/blog/vite-is-too-fast</link>
+    <link>https://azamiftikhar.dev/blog/vite-is-too-fast</link>
     <description>Short introduction to Vite</description>
     <pubDate>Sun, 18 Jul 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -381,9 +381,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/dockerize-node</guid>
+    <guid>https://azamiftikhar.dev/blog/dockerize-node</guid>
     <title>Dockerize your Node app</title>
-    <link>https://karanpratapsingh.com/blog/dockerize-node</link>
+    <link>https://azamiftikhar.dev/blog/dockerize-node</link>
     <description>Learn how to dockerize your Node application for development and production</description>
     <pubDate>Tue, 13 Jul 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -391,9 +391,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/dockerize-react</guid>
+    <guid>https://azamiftikhar.dev/blog/dockerize-react</guid>
     <title>Dockerize your React app</title>
-    <link>https://karanpratapsingh.com/blog/dockerize-react</link>
+    <link>https://azamiftikhar.dev/blog/dockerize-react</link>
     <description>Learn how to dockerize your React application for development and production</description>
     <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -401,9 +401,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/introduction-dockerize-series</guid>
+    <guid>https://azamiftikhar.dev/blog/introduction-dockerize-series</guid>
     <title>Introduction to Dockerize series</title>
-    <link>https://karanpratapsingh.com/blog/introduction-dockerize-series</link>
+    <link>https://azamiftikhar.dev/blog/introduction-dockerize-series</link>
     <description>In this series we will learn how to dockerize your applications</description>
     <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -411,9 +411,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/unit-testing-go</guid>
+    <guid>https://azamiftikhar.dev/blog/unit-testing-go</guid>
     <title>Unit testing in Go</title>
-    <link>https://karanpratapsingh.com/blog/unit-testing-go</link>
+    <link>https://azamiftikhar.dev/blog/unit-testing-go</link>
     <description>In this article let&#39;s discuss how we can write simple unit tests in Go</description>
     <pubDate>Sat, 03 Jul 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -421,9 +421,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/blazing-typescript-webpack-esbuild</guid>
+    <guid>https://azamiftikhar.dev/blog/blazing-typescript-webpack-esbuild</guid>
     <title>Blazing fast TypeScript with Webpack and ESBuild</title>
-    <link>https://karanpratapsingh.com/blog/blazing-typescript-webpack-esbuild</link>
+    <link>https://azamiftikhar.dev/blog/blazing-typescript-webpack-esbuild</link>
     <description>Learn how to improve your TypeScript projects with webpack and esbuild</description>
     <pubDate>Mon, 28 Jun 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -431,9 +431,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/introduction-go-fiber</guid>
+    <guid>https://azamiftikhar.dev/blog/introduction-go-fiber</guid>
     <title>Introduction to Go Fiber</title>
-    <link>https://karanpratapsingh.com/blog/introduction-go-fiber</link>
+    <link>https://azamiftikhar.dev/blog/introduction-go-fiber</link>
     <description>Learn how to use Go Fiber framework for your next project</description>
     <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -441,9 +441,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/amazing-placeholder-blurhash</guid>
+    <guid>https://azamiftikhar.dev/blog/amazing-placeholder-blurhash</guid>
     <title>Amazing image placeholders with blurhash</title>
-    <link>https://karanpratapsingh.com/blog/amazing-placeholder-blurhash</link>
+    <link>https://azamiftikhar.dev/blog/amazing-placeholder-blurhash</link>
     <description>Learn how to make amazing image placeholders with blurhash</description>
     <pubDate>Fri, 30 Oct 2020 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -451,9 +451,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/private-public-routing-react</guid>
+    <guid>https://azamiftikhar.dev/blog/private-public-routing-react</guid>
     <title>Private, Public and Restricted routes in React</title>
-    <link>https://karanpratapsingh.com/blog/private-public-routing-react</link>
+    <link>https://azamiftikhar.dev/blog/private-public-routing-react</link>
     <description>Learn to setup private, public and restricted routes in React</description>
     <pubDate>Fri, 30 Oct 2020 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -461,9 +461,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/arangodb-underrated</guid>
+    <guid>https://azamiftikhar.dev/blog/arangodb-underrated</guid>
     <title>ArangoDB is underrated!</title>
-    <link>https://karanpratapsingh.com/blog/arangodb-underrated</link>
+    <link>https://azamiftikhar.dev/blog/arangodb-underrated</link>
     <description>Let us learn about highly available and scalable multi-model database called ArangoDB</description>
     <pubDate>Fri, 23 Oct 2020 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -471,9 +471,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/introduction-to-zustand</guid>
+    <guid>https://azamiftikhar.dev/blog/introduction-to-zustand</guid>
     <title>Simplify your store! A brief introduction to Zustand</title>
-    <link>https://karanpratapsingh.com/blog/introduction-to-zustand</link>
+    <link>https://azamiftikhar.dev/blog/introduction-to-zustand</link>
     <description>Simplify your state management with Zustand which is small, fast, and scaleable</description>
     <pubDate>Tue, 13 Oct 2020 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -481,9 +481,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/react-native-codepush</guid>
+    <guid>https://azamiftikhar.dev/blog/react-native-codepush</guid>
     <title>Update your React Native apps seamlessly using Microsoft&#39;s CodePush</title>
-    <link>https://karanpratapsingh.com/blog/react-native-codepush</link>
+    <link>https://azamiftikhar.dev/blog/react-native-codepush</link>
     <description>Integrate Microsoft codepush in React Native for seamless updates</description>
     <pubDate>Wed, 13 May 2020 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -491,9 +491,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/quick-package-update-react-native</guid>
+    <guid>https://azamiftikhar.dev/blog/quick-package-update-react-native</guid>
     <title>Quick guide for updating package name in React Native</title>
-    <link>https://karanpratapsingh.com/blog/quick-package-update-react-native</link>
+    <link>https://azamiftikhar.dev/blog/quick-package-update-react-native</link>
     <description>Guide to update Android and iOS package names in React Native</description>
     <pubDate>Sat, 11 Apr 2020 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -501,9 +501,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/continuous-integration-appcenter-react-native</guid>
+    <guid>https://azamiftikhar.dev/blog/continuous-integration-appcenter-react-native</guid>
     <title>Continuous Integration and Deployment with React Native using App Center</title>
-    <link>https://karanpratapsingh.com/blog/continuous-integration-appcenter-react-native</link>
+    <link>https://azamiftikhar.dev/blog/continuous-integration-appcenter-react-native</link>
     <description>Setup continuous integration and continuous deploy with App Center for React Native</description>
     <pubDate>Sat, 28 Mar 2020 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -511,9 +511,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/imports-module-resolver-react-native</guid>
+    <guid>https://azamiftikhar.dev/blog/imports-module-resolver-react-native</guid>
     <title>Cleaning up imports using module resolver in React Native</title>
-    <link>https://karanpratapsingh.com/blog/imports-module-resolver-react-native</link>
+    <link>https://azamiftikhar.dev/blog/imports-module-resolver-react-native</link>
     <description>Guide for integrating module resolver in React Native projects</description>
     <pubDate>Sat, 21 Mar 2020 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -521,9 +521,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/sign-in-with-apple-react-native</guid>
+    <guid>https://azamiftikhar.dev/blog/sign-in-with-apple-react-native</guid>
     <title>An in-depth guide to Sign in with Apple using React Native</title>
-    <link>https://karanpratapsingh.com/blog/sign-in-with-apple-react-native</link>
+    <link>https://azamiftikhar.dev/blog/sign-in-with-apple-react-native</link>
     <description>Step-by-step guide for integrating Apple sign-in using React Native</description>
     <pubDate>Mon, 16 Mar 2020 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>

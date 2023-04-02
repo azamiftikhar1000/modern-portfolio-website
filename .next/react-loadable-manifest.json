@@ -5,22 +5,10 @@
       "static/chunks/node_modules_socket_io-client_build_esm_index_js.js"
     ]
   },
-  "../components/comments/index.tsx -> @/components/comments/Disqus": {
-    "id": "../components/comments/index.tsx -> @/components/comments/Disqus",
+  "index.tsx -> @/components/Banner": {
+    "id": "index.tsx -> @/components/Banner",
     "files": [
-      "static/chunks/components_comments_Disqus_tsx.js"
-    ]
-  },
-  "../components/comments/index.tsx -> @/components/comments/Giscus": {
-    "id": "../components/comments/index.tsx -> @/components/comments/Giscus",
-    "files": [
-      "static/chunks/components_comments_Giscus_tsx.js"
-    ]
-  },
-  "../components/comments/index.tsx -> @/components/comments/Utterances": {
-    "id": "../components/comments/index.tsx -> @/components/comments/Utterances",
-    "files": [
-      "static/chunks/components_comments_Utterances_tsx.js"
+      "static/chunks/components_Banner_tsx.js"
     ]
   }
 }
