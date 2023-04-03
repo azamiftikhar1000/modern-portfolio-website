@@ -1,34 +1,7 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Azam Iftikhar</title>
-      <link>https://karanpratapsingh.com/blog</link>
-      <description>A software engineer who values learning and growing with people, teams, and technologies.</description>
-      <language>en-us</language>
-      <managingEditor>azamiftikhar1000@gmail.com (Azam Iftikhar)</managingEditor>
-      <webMaster>azamiftikhar1000@gmail.com (Azam Iftikhar)</webMaster>
-      <lastBuildDate>Thu, 03 Feb 2022 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://karanpratapsingh.com/tags/opensource/feed.xml" rel="self" type="application/rss+xml"/>
-      
-  <item>
-    <guid>https://karanpratapsingh.com/blog/nats-with-kubernetes</guid>
-    <title>NATS with Kubernetes</title>
-    <link>https://karanpratapsingh.com/blog/nats-with-kubernetes</link>
-    <description>Learn to deploy your NATS cluster on Kubernetes</description>
-    <pubDate>Thu, 03 Feb 2022 00:00:00 GMT</pubDate>
-    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
-    <category>nats</category><category>kubernetes</category><category>opensource</category>
-  </item>
-
-  <item>
-    <guid>https://karanpratapsingh.com/blog/distributed-messaging-nats</guid>
-    <title>Distributed messaging with NATS</title>
-    <link>https://karanpratapsingh.com/blog/distributed-messaging-nats</link>
-    <description>Distributed messaging at scale with NATS</description>
-    <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
-    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
-    <category>nats</category><category>microservices</category><category>backend</category><category>opensource</category>
-  </item>
+    
 
     </channel>
   </rss>

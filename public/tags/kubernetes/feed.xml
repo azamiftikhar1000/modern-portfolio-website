@@ -1,54 +1,7 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Azam Iftikhar</title>
-      <link>https://karanpratapsingh.com/blog</link>
-      <description>A software engineer who values learning and growing with people, teams, and technologies.</description>
-      <language>en-us</language>
-      <managingEditor>azamiftikhar1000@gmail.com (Azam Iftikhar)</managingEditor>
-      <webMaster>azamiftikhar1000@gmail.com (Azam Iftikhar)</webMaster>
-      <lastBuildDate>Wed, 30 Mar 2022 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://karanpratapsingh.com/tags/kubernetes/feed.xml" rel="self" type="application/rss+xml"/>
-      
-  <item>
-    <guid>https://karanpratapsingh.com/blog/hypertrade-distributed-cryptocurrency-trading-bot</guid>
-    <title>HyperTrade - Distributed cryptocurrency trading bot</title>
-    <link>https://karanpratapsingh.com/blog/hypertrade-distributed-cryptocurrency-trading-bot</link>
-    <description>HyperTrade is a ready to deploy, distributed cryptocurrency trading bot</description>
-    <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
-    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
-    <category>go</category><category>typescript</category><category>react</category><category>python</category><category>kubernetes</category>
-  </item>
 
-  <item>
-    <guid>https://karanpratapsingh.com/blog/nats-with-kubernetes</guid>
-    <title>NATS with Kubernetes</title>
-    <link>https://karanpratapsingh.com/blog/nats-with-kubernetes</link>
-    <description>Learn to deploy your NATS cluster on Kubernetes</description>
-    <pubDate>Thu, 03 Feb 2022 00:00:00 GMT</pubDate>
-    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
-    <category>nats</category><category>kubernetes</category><category>opensource</category>
-  </item>
-
-  <item>
-    <guid>https://karanpratapsingh.com/blog/kubernetes-development-skaffold</guid>
-    <title>Easy Kubernetes development with Skaffold</title>
-    <link>https://karanpratapsingh.com/blog/kubernetes-development-skaffold</link>
-    <description>Easy local development with Kubernetes and Skaffold</description>
-    <pubDate>Tue, 07 Sep 2021 00:00:00 GMT</pubDate>
-    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
-    <category>kubernetes</category><category>docker</category><category>go</category><category>node</category>
-  </item>
-
-  <item>
-    <guid>https://karanpratapsingh.com/blog/art-of-building-small-container</guid>
-    <title>Art of building small containers</title>
-    <link>https://karanpratapsingh.com/blog/art-of-building-small-container</link>
-    <description>Learn how to build small and secure docker containers</description>
-    <pubDate>Fri, 30 Jul 2021 00:00:00 GMT</pubDate>
-    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
-    <category>docker</category><category>go</category><category>kubernetes</category><category>devops</category>
-  </item>
 
     </channel>
   </rss>

@@ -1,54 +1,7 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Azam Iftikhar</title>
-      <link>https://karanpratapsingh.com/blog</link>
-      <description>A software engineer who values learning and growing with people, teams, and technologies.</description>
-      <language>en-us</language>
-      <managingEditor>azamiftikhar1000@gmail.com (Azam Iftikhar)</managingEditor>
-      <webMaster>azamiftikhar1000@gmail.com (Azam Iftikhar)</webMaster>
-      <lastBuildDate>Wed, 09 Mar 2022 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://karanpratapsingh.com/tags/microservices/feed.xml" rel="self" type="application/rss+xml"/>
       
-  <item>
-    <guid>https://karanpratapsingh.com/blog/graphql-subscription-at-scale-with-nats</guid>
-    <title>GraphQL subscriptions at scale with NATS</title>
-    <link>https://karanpratapsingh.com/blog/graphql-subscription-at-scale-with-nats</link>
-    <description>Learn how to make your GraphQL subscriptions scaleable with NATS</description>
-    <pubDate>Wed, 09 Mar 2022 00:00:00 GMT</pubDate>
-    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
-    <category>nats</category><category>go</category><category>graphql</category><category>microservices</category>
-  </item>
-
-  <item>
-    <guid>https://karanpratapsingh.com/blog/distributed-communication-patterns-nats</guid>
-    <title>Distributed communication patterns with NATS</title>
-    <link>https://karanpratapsingh.com/blog/distributed-communication-patterns-nats</link>
-    <description>Learn about different distributed messaging patterns we can implement with NATS</description>
-    <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
-    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
-    <category>nats</category><category>go</category><category>distributedsystems</category><category>microservices</category>
-  </item>
-
-  <item>
-    <guid>https://karanpratapsingh.com/blog/embedding-nats-go</guid>
-    <title>Embedding NATS in Go</title>
-    <link>https://karanpratapsingh.com/blog/embedding-nats-go</link>
-    <description>Tutorial on how to embedd NATS in Go</description>
-    <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
-    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
-    <category>nats</category><category>go</category><category>microservices</category>
-  </item>
-
-  <item>
-    <guid>https://karanpratapsingh.com/blog/distributed-messaging-nats</guid>
-    <title>Distributed messaging with NATS</title>
-    <link>https://karanpratapsingh.com/blog/distributed-messaging-nats</link>
-    <description>Distributed messaging at scale with NATS</description>
-    <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
-    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
-    <category>nats</category><category>microservices</category><category>backend</category><category>opensource</category>
-  </item>
 
     </channel>
   </rss>

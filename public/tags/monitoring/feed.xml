@@ -1,34 +1,7 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Azam Iftikhar</title>
-      <link>https://karanpratapsingh.com/blog</link>
-      <description>A software engineer who values learning and growing with people, teams, and technologies.</description>
-      <language>en-us</language>
-      <managingEditor>azamiftikhar1000@gmail.com (Azam Iftikhar)</managingEditor>
-      <webMaster>azamiftikhar1000@gmail.com (Azam Iftikhar)</webMaster>
-      <lastBuildDate>Fri, 15 Apr 2022 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://karanpratapsingh.com/tags/monitoring/feed.xml" rel="self" type="application/rss+xml"/>
       
-  <item>
-    <guid>https://karanpratapsingh.com/blog/advanced-monitoring-with-nats-surveyor</guid>
-    <title>Advanced Monitoring with NATS surveyor</title>
-    <link>https://karanpratapsingh.com/blog/advanced-monitoring-with-nats-surveyor</link>
-    <description>Learn how to monitor your NATS clusters with NATS surveyor</description>
-    <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
-    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
-    <category>nats</category><category>distributedsystems</category><category>monitoring</category>
-  </item>
-
-  <item>
-    <guid>https://karanpratapsingh.com/blog/real-time-monitoring-nats-top</guid>
-    <title>Real-time monitoring with nats-top</title>
-    <link>https://karanpratapsingh.com/blog/real-time-monitoring-nats-top</link>
-    <description>Monitor your NATS server in real-time nats-top</description>
-    <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
-    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
-    <category>nats</category><category>distributedsystems</category><category>tutorial</category><category>monitoring</category>
-  </item>
 
     </channel>
   </rss>

@@ -1,64 +1,6 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Azam Iftikhar</title>
-      <link>https://karanpratapsingh.com/blog</link>
-      <description>A software engineer who values learning and growing with people, teams, and technologies.</description>
-      <language>en-us</language>
-      <managingEditor>azamiftikhar1000@gmail.com (Azam Iftikhar)</managingEditor>
-      <webMaster>azamiftikhar1000@gmail.com (Azam Iftikhar)</webMaster>
-      <lastBuildDate>Tue, 08 Mar 2022 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://karanpratapsingh.com/tags/productivity/feed.xml" rel="self" type="application/rss+xml"/>
-      
-  <item>
-    <guid>https://karanpratapsingh.com/blog/pull-request-automation-with-mergify</guid>
-    <title>Pull Request automation with Mergify</title>
-    <link>https://karanpratapsingh.com/blog/pull-request-automation-with-mergify</link>
-    <description>Automate your pull request workflow with Mergify</description>
-    <pubDate>Tue, 08 Mar 2022 00:00:00 GMT</pubDate>
-    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
-    <category>git</category><category>productivity</category>
-  </item>
-
-  <item>
-    <guid>https://karanpratapsingh.com/blog/top5-languages-2022</guid>
-    <title>Top 5 languages to explore in 2022</title>
-    <link>https://karanpratapsingh.com/blog/top5-languages-2022</link>
-    <description>Top 5 languages that might be great to explore in 2022</description>
-    <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
-    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
-    <category>beginners</category><category>productivity</category>
-  </item>
-
-  <item>
-    <guid>https://karanpratapsingh.com/blog/seeding-postgres-with-docker</guid>
-    <title>Seeding Postgres with Docker</title>
-    <link>https://karanpratapsingh.com/blog/seeding-postgres-with-docker</link>
-    <description>Learn to seed your postgres docker container efficiently</description>
-    <pubDate>Sat, 13 Nov 2021 00:00:00 GMT</pubDate>
-    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
-    <category>docker</category><category>postgres</category><category>productivity</category>
-  </item>
-
-  <item>
-    <guid>https://karanpratapsingh.com/blog/tips-code-review</guid>
-    <title>Tips for Better Code Review</title>
-    <link>https://karanpratapsingh.com/blog/tips-code-review</link>
-    <description>Tips for better code review to keep our code clean and efficient</description>
-    <pubDate>Tue, 19 Oct 2021 00:00:00 GMT</pubDate>
-    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
-    <category>git</category><category>productivity</category>
-  </item>
-
-  <item>
-    <guid>https://karanpratapsingh.com/blog/vite-is-too-fast</guid>
-    <title>Vite is too fast!</title>
-    <link>https://karanpratapsingh.com/blog/vite-is-too-fast</link>
-    <description>Short introduction to Vite</description>
-    <pubDate>Sun, 18 Jul 2021 00:00:00 GMT</pubDate>
-    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
-    <category>javascript</category><category>react</category><category>productivity</category>
-  </item>
-
+     
     </channel>
   </rss>

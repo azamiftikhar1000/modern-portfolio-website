@@ -1,374 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://karanpratapsingh.com/about</loc>
+    <loc>https://azamiftikhar.dev/about</loc>
   </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/blog</loc>
+    <loc>https://azamiftikhar.dev/blog</loc>
   </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/contact</loc>
+    <loc>https://azamiftikhar.dev/contact</loc>
   </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/courses</loc>
+    <loc>https://azamiftikhar.dev/courses</loc>
   </url>
 
   <url>
-    <loc>https://karanpratapsingh.com</loc>
+    <loc>https://azamiftikhar.dev</loc>
   </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/tags</loc>
+    <loc>https://azamiftikhar.dev/tags</loc>
   </url>
 
-  <url>
-    <loc
-      >https://karanpratapsingh.com/blog/advanced-monitoring-with-nats-surveyor</loc
-    >
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/amazing-placeholder-blurhash</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/arangodb-underrated</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/art-of-building-small-container</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/auditing-unsafe-passwords</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/aws-roadmap</loc>
-  </url>
-
-  <url>
-    <loc
-      >https://karanpratapsingh.com/blog/blazing-typescript-webpack-esbuild</loc
-    >
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/build-rest-api-go</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/configure-aws-cli</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/connecting-postgresql-gorm</loc>
-  </url>
-
-  <url>
-    <loc
-      >https://karanpratapsingh.com/blog/continuous-integration-appcenter-react-native</loc
-    >
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/csp-actor-model-concurrency</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/deploy-react-s3-cloudfront</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/deploying-nextjs-aws-app-runner</loc>
-  </url>
-
-  <url>
-    <loc
-      >https://karanpratapsingh.com/blog/distributed-communication-patterns-nats</loc
-    >
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/distributed-messaging-nats</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/dockerize-go</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/dockerize-node</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/dockerize-react</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/embedding-nats-go</loc>
-  </url>
-
-  <url>
-    <loc
-      >https://karanpratapsingh.com/blog/exposing-resources-cloudflare-argo-tunnel</loc
-    >
-  </url>
-
-  <url>
-    <loc
-      >https://karanpratapsingh.com/blog/getting-started-with-nats-suse-sle</loc
-    >
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/go-error-handling-typescript</loc>
-  </url>
-
-  <url>
-    <loc
-      >https://karanpratapsingh.com/blog/graphql-subscription-at-scale-with-nats</loc
-    >
-  </url>
-
-  <url>
-    <loc
-      >https://karanpratapsingh.com/blog/hypertrade-distributed-cryptocurrency-trading-bot</loc
-    >
-  </url>
-
-  <url>
-    <loc
-      >https://karanpratapsingh.com/blog/imports-module-resolver-react-native</loc
-    >
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/introduction-dockerize-series</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/introduction-go-fiber</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/introduction-nats-cli</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/introduction-to-iac-terraform</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/introduction-to-zustand</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/kubernetes-development-skaffold</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/learn-go-the-complete-course</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/nats-at-edge-with-k3s</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/nats-topology</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/nats-with-kubernetes</loc>
-  </url>
-
-  <url>
-    <loc
-      >https://karanpratapsingh.com/blog/optimize-node-performance-clustering</loc
-    >
-  </url>
-
-  <url>
-    <loc
-      >https://karanpratapsingh.com/blog/preview-environments-aws-cloudflare</loc
-    >
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/private-public-routing-react</loc>
-  </url>
-
-  <url>
-    <loc
-      >https://karanpratapsingh.com/blog/pull-request-automation-with-mergify</loc
-    >
-  </url>
-
-  <url>
-    <loc
-      >https://karanpratapsingh.com/blog/quick-package-update-react-native</loc
-    >
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/react-native-codepush</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/real-time-monitoring-nats-top</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/seeding-postgres-with-docker</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/sign-in-with-apple-react-native</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/blog/sqs-sns-eventbridge</loc>
-  </url>
+  
 
   <url>
-    <loc
-      >https://karanpratapsingh.com/blog/system-design-the-complete-course</loc
-    >
+    <loc>https://azamiftikhar.dev/tags/machinelearing</loc>
   </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/blog/tips-code-review</loc>
+    <loc>https://azamiftikhar.dev/tags/expert</loc>
   </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/blog/top5-docker-best-practices</loc>
+    <loc>https://azamiftikhar.dev/tags/devops</loc>
   </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/blog/top5-languages-2022</loc>
+    <loc>https://azamiftikhar.dev/tags/backend</loc>
   </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/blog/unit-testing-go</loc>
+    <loc>https://azamiftikhar.dev/tags/aws</loc>
   </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/blog/vite-is-too-fast</loc>
+    <loc>https://azamiftikhar.dev/tags/distributedsystems</loc>
   </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/tags/architecture</loc>
+    <loc>https://azamiftikhar.dev/tags/docker</loc>
   </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/tags/beginners</loc>
+    <loc>https://azamiftikhar.dev/tags/git</loc>
   </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/tags/devops</loc>
+    <loc>https://azamiftikhar.dev/tags/python</loc>
   </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/tags/backend</loc>
+    <loc>https://azamiftikhar.dev/tags/chatgpt</loc>
   </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/tags/aws</loc>
+    <loc>https://azamiftikhar.dev/tags/azure</loc>
   </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/tags/distributedsystems</loc>
+    <loc>https://azamiftikhar.dev/tags/kubernetes</loc>
   </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/tags/docker</loc>
+    <loc>https://azamiftikhar.dev/tags/microservices</loc>
   </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/tags/git</loc>
+    <loc>https://azamiftikhar.dev/tags/mlflow</loc>
   </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/tags/go</loc>
+    <loc>https://azamiftikhar.dev/tags/prompt</loc>
   </url>
 
-  <url>
-    <loc>https://karanpratapsingh.com/tags/graphql</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/tags/javascript</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/tags/kubernetes</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/tags/microservices</loc>
-  </url>
-
-  <url>
-    <loc>https://karanpratapsingh.com/tags/monitoring</loc>
-  </url>
 
-  <url>
-    <loc>https://karanpratapsingh.com/tags/nats</loc>
-  </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/tags/nextjs</loc>
+    <loc>https://azamiftikhar.dev/tags/node</loc>
   </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/tags/node</loc>
+    <loc>https://azamiftikhar.dev/tags/opensource</loc>
   </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/tags/opensource</loc>
+    <loc>https://azamiftikhar.dev/tags/postgres</loc>
   </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/tags/postgres</loc>
+    <loc>https://azamiftikhar.dev/tags/python</loc>
   </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/tags/python</loc>
+    <loc>https://azamiftikhar.dev/tags/reactnative</loc>
   </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/tags/reactnative</loc>
+    <loc>https://azamiftikhar.dev/tags/react</loc>
   </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/tags/react</loc>
+    <loc>https://azamiftikhar.dev/tags/productivity</loc>
   </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/tags/productivity</loc>
+    <loc>https://azamiftikhar.dev/tags/system-design</loc>
   </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/tags/system-design</loc>
+    <loc>https://azamiftikhar.dev/tags/terraform</loc>
   </url>
 
-  <url>
-    <loc>https://karanpratapsingh.com/tags/terraform</loc>
-  </url>
 
-  <url>
-    <loc>https://karanpratapsingh.com/tags/tutorial</loc>
-  </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/tags/webpack</loc>
+    <loc>https://azamiftikhar.dev/tags/webpack</loc>
   </url>
 
   <url>
-    <loc>https://karanpratapsingh.com/tags/typescript</loc>
+    <loc>https://azamiftikhar.dev/tags/algorithim</loc>
   </url>
 </urlset>

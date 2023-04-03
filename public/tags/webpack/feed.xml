@@ -1,24 +1,6 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Azam Iftikhar</title>
-      <link>https://karanpratapsingh.com/blog</link>
-      <description>A software engineer who values learning and growing with people, teams, and technologies.</description>
-      <language>en-us</language>
-      <managingEditor>azamiftikhar1000@gmail.com (Azam Iftikhar)</managingEditor>
-      <webMaster>azamiftikhar1000@gmail.com (Azam Iftikhar)</webMaster>
-      <lastBuildDate>Mon, 28 Jun 2021 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://karanpratapsingh.com/tags/webpack/feed.xml" rel="self" type="application/rss+xml"/>
-      
-  <item>
-    <guid>https://karanpratapsingh.com/blog/blazing-typescript-webpack-esbuild</guid>
-    <title>Blazing fast TypeScript with Webpack and ESBuild</title>
-    <link>https://karanpratapsingh.com/blog/blazing-typescript-webpack-esbuild</link>
-    <description>Learn how to improve your TypeScript projects with webpack and esbuild</description>
-    <pubDate>Mon, 28 Jun 2021 00:00:00 GMT</pubDate>
-    <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
-    <category>typescript</category><category>node</category><category>webpack</category>
-  </item>
 
     </channel>
   </rss>

@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Azam Iftikhar</title>
-      <link>https://karanpratapsingh.com/blog</link>
+      <link>https://azamiftikhar.dev/blog</link>
       <description>A software engineer who values learning and growing with people, teams, and technologies.</description>
       <language>en-us</language>
       <managingEditor>azamiftikhar1000@gmail.com (Azam Iftikhar)</managingEditor>
       <webMaster>azamiftikhar1000@gmail.com (Azam Iftikhar)</webMaster>
       <lastBuildDate>Fri, 11 Feb 2022 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://karanpratapsingh.com/tags/devops/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://azamiftikhar.dev/tags/devops/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://karanpratapsingh.com/blog/top5-docker-best-practices</guid>
+    <guid>https://azamiftikhar.dev/blog/top5-docker-best-practices</guid>
     <title>Top 5 Docker Best Practices</title>
-    <link>https://karanpratapsingh.com/blog/top5-docker-best-practices</link>
+    <link>https://azamiftikhar.dev/blog/top5-docker-best-practices</link>
     <description>Top 5 docker best practices for better size, security and developer experience</description>
     <pubDate>Fri, 11 Feb 2022 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -21,9 +21,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/preview-environments-aws-cloudflare</guid>
+    <guid>https://azamiftikhar.dev/blog/preview-environments-aws-cloudflare</guid>
     <title>Preview Environments with AWS &amp; Cloudflare</title>
-    <link>https://karanpratapsingh.com/blog/preview-environments-aws-cloudflare</link>
+    <link>https://azamiftikhar.dev/blog/preview-environments-aws-cloudflare</link>
     <description>On demand preview environments with AWS ECS and Cloudflare</description>
     <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -31,9 +31,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/deploy-react-s3-cloudfront</guid>
+    <guid>https://azamiftikhar.dev/blog/deploy-react-s3-cloudfront</guid>
     <title>Deploy React app to S3 &amp; Cloudfront</title>
-    <link>https://karanpratapsingh.com/blog/deploy-react-s3-cloudfront</link>
+    <link>https://azamiftikhar.dev/blog/deploy-react-s3-cloudfront</link>
     <description>Learn how to deploy React applications to AWS S3 &amp; Cloudfront</description>
     <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -41,9 +41,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/introduction-to-iac-terraform</guid>
+    <guid>https://azamiftikhar.dev/blog/introduction-to-iac-terraform</guid>
     <title>Introduction to Infrastructure as Code with Terraform</title>
-    <link>https://karanpratapsingh.com/blog/introduction-to-iac-terraform</link>
+    <link>https://azamiftikhar.dev/blog/introduction-to-iac-terraform</link>
     <description>Introduction to Infrastructure as Code (IaC) with Terraform</description>
     <pubDate>Tue, 17 Aug 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -51,9 +51,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/configure-aws-cli</guid>
+    <guid>https://azamiftikhar.dev/blog/configure-aws-cli</guid>
     <title>Configuring AWS CLI</title>
-    <link>https://karanpratapsingh.com/blog/configure-aws-cli</link>
+    <link>https://azamiftikhar.dev/blog/configure-aws-cli</link>
     <description>Learn how to configure and setup your AWS CLI</description>
     <pubDate>Wed, 11 Aug 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -61,9 +61,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/art-of-building-small-container</guid>
+    <guid>https://azamiftikhar.dev/blog/art-of-building-small-container</guid>
     <title>Art of building small containers</title>
-    <link>https://karanpratapsingh.com/blog/art-of-building-small-container</link>
+    <link>https://azamiftikhar.dev/blog/art-of-building-small-container</link>
     <description>Learn how to build small and secure docker containers</description>
     <pubDate>Fri, 30 Jul 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -71,9 +71,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/dockerize-go</guid>
+    <guid>https://azamiftikhar.dev/blog/dockerize-go</guid>
     <title>Dockerize your Go app</title>
-    <link>https://karanpratapsingh.com/blog/dockerize-go</link>
+    <link>https://azamiftikhar.dev/blog/dockerize-go</link>
     <description>Learn how to dockerize your Go application for development and production</description>
     <pubDate>Sat, 24 Jul 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -81,9 +81,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/dockerize-node</guid>
+    <guid>https://azamiftikhar.dev/blog/dockerize-node</guid>
     <title>Dockerize your Node app</title>
-    <link>https://karanpratapsingh.com/blog/dockerize-node</link>
+    <link>https://azamiftikhar.dev/blog/dockerize-node</link>
     <description>Learn how to dockerize your Node application for development and production</description>
     <pubDate>Tue, 13 Jul 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -91,9 +91,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/dockerize-react</guid>
+    <guid>https://azamiftikhar.dev/blog/dockerize-react</guid>
     <title>Dockerize your React app</title>
-    <link>https://karanpratapsingh.com/blog/dockerize-react</link>
+    <link>https://azamiftikhar.dev/blog/dockerize-react</link>
     <description>Learn how to dockerize your React application for development and production</description>
     <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -101,9 +101,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/react-native-codepush</guid>
+    <guid>https://azamiftikhar.dev/blog/react-native-codepush</guid>
     <title>Update your React Native apps seamlessly using Microsoft&#39;s CodePush</title>
-    <link>https://karanpratapsingh.com/blog/react-native-codepush</link>
+    <link>https://azamiftikhar.dev/blog/react-native-codepush</link>
     <description>Integrate Microsoft codepush in React Native for seamless updates</description>
     <pubDate>Wed, 13 May 2020 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
@@ -111,9 +111,9 @@
   </item>
 
   <item>
-    <guid>https://karanpratapsingh.com/blog/continuous-integration-appcenter-react-native</guid>
+    <guid>https://azamiftikhar.dev/blog/continuous-integration-appcenter-react-native</guid>
     <title>Continuous Integration and Deployment with React Native using App Center</title>
-    <link>https://karanpratapsingh.com/blog/continuous-integration-appcenter-react-native</link>
+    <link>https://azamiftikhar.dev/blog/continuous-integration-appcenter-react-native</link>
     <description>Setup continuous integration and continuous deploy with App Center for React Native</description>
     <pubDate>Sat, 28 Mar 2020 00:00:00 GMT</pubDate>
     <author>azamiftikhar1000@gmail.com (Azam Iftikhar)</author>
