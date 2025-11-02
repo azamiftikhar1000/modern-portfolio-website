@@ -42,12 +42,21 @@ export enum Stack {
   tf,
   ga,
   cv,
+  llm,
+  nlp,
+  langchain,
 }
 
 export const WorkStack = [
-  Stack.go,
-  Stack.typescript,
   Stack.python,
+  Stack.llm,
+  Stack.nlp,
+  Stack.langchain,
+  Stack.ml,
+  Stack.tf,
+  Stack.cv,
+  Stack.typescript,
+  Stack.go,
   Stack.react,
   Stack.aws,
   Stack.gcp,
@@ -62,8 +71,7 @@ export const WorkStack = [
   Stack.arangodb,
   Stack.reactnative,
   Stack.pinescript,
-  Stack.ga,
-  Stack.cv
+  Stack.ga
 ];
 
 type StackInfoMap = {
@@ -182,8 +190,23 @@ export const StackInfo: Record<Stack, StackInfoMap> = {
     
   },
   [Stack.cv]: {
-    value: 'computer vision',
+    value: 'Computer Vision',
     color: Colors.cv,
+    
+  },
+  [Stack.llm]: {
+    value: 'Large Language Models',
+    color: Colors.llm,
+    
+  },
+  [Stack.nlp]: {
+    value: 'Natural Language Processing',
+    color: Colors.nlp,
+    
+  },
+  [Stack.langchain]: {
+    value: 'LangChain',
+    color: Colors.langchain,
     
   },
 

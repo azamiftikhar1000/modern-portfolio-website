@@ -11,6 +11,9 @@ export const Colors = {
   tf:'#059F00',
   GA:'#D44638',
   cv:'#61DAF6',
+  llm: '#FF6B6B',
+  nlp: '#4ECDC4',
+  langchain: '#121212',
   // Frontend
   web: '#2D2D2D',
   react: '#61DAF6',
