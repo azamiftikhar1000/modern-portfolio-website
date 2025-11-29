@@ -19,7 +19,6 @@ const ContentSecurityPolicy = `
  **/
 module.exports = withBundleAnalyzer({
   reactStrictMode: true,
-  output: 'export',
   pageExtensions: ['ts', 'tsx', 'js', 'jsx', 'md', 'mdx'],
   eslint: {
     dirs: ['pages', 'components', 'lib', 'layouts', 'scripts', 'config'],
@@ -28,19 +27,6 @@ module.exports = withBundleAnalyzer({
     unoptimized: true,
   },
   webpack: (config, { dev, isServer }) => {
-    config.module.rules.push({
-      test: /\.(png|jpe?g|gif|mp4)$/i,
-      use: [
-        {
-          loader: 'file-loader',
-          options: {
-            publicPath: '/_next',
-            name: 'static/media/[name].[hash].[ext]',
-          },
-        },
-      ],
-    });
-
     config.module.rules.push({
       test: /\.svg$/,
       use: ['@svgr/webpack'],
