@@ -24,18 +24,16 @@
     <loc>https://azamiftikhar.dev/tags</loc>
   </url>
 
-  
-
   <url>
-    <loc>https://azamiftikhar.dev/tags/machinelearing</loc>
+    <loc>https://azamiftikhar.dev/blog/default</loc>
   </url>
 
   <url>
-    <loc>https://azamiftikhar.dev/tags/expert</loc>
+    <loc>https://azamiftikhar.dev/tags/architecture</loc>
   </url>
 
   <url>
-    <loc>https://azamiftikhar.dev/tags/devops</loc>
+    <loc>https://azamiftikhar.dev/tags/aws</loc>
   </url>
 
   <url>
@@ -43,7 +41,11 @@
   </url>
 
   <url>
-    <loc>https://azamiftikhar.dev/tags/aws</loc>
+    <loc>https://azamiftikhar.dev/tags/beginners</loc>
+  </url>
+
+  <url>
+    <loc>https://azamiftikhar.dev/tags/devops</loc>
   </url>
 
   <url>
@@ -59,15 +61,15 @@
   </url>
 
   <url>
-    <loc>https://azamiftikhar.dev/tags/python</loc>
+    <loc>https://azamiftikhar.dev/tags/go</loc>
   </url>
 
   <url>
-    <loc>https://azamiftikhar.dev/tags/chatgpt</loc>
+    <loc>https://azamiftikhar.dev/tags/graphql</loc>
   </url>
 
   <url>
-    <loc>https://azamiftikhar.dev/tags/azure</loc>
+    <loc>https://azamiftikhar.dev/tags/javascript</loc>
   </url>
 
   <url>
@@ -75,18 +77,20 @@
   </url>
 
   <url>
+    <loc>https://azamiftikhar.dev/tags/monitoring</loc>
+  </url>
+
+  <url>
     <loc>https://azamiftikhar.dev/tags/microservices</loc>
   </url>
 
   <url>
-    <loc>https://azamiftikhar.dev/tags/mlflow</loc>
+    <loc>https://azamiftikhar.dev/tags/nats</loc>
   </url>
 
   <url>
-    <loc>https://azamiftikhar.dev/tags/prompt</loc>
+    <loc>https://azamiftikhar.dev/tags/nextjs</loc>
   </url>
-
-
 
   <url>
     <loc>https://azamiftikhar.dev/tags/node</loc>
@@ -101,11 +105,7 @@
   </url>
 
   <url>
-    <loc>https://azamiftikhar.dev/tags/python</loc>
-  </url>
-
-  <url>
-    <loc>https://azamiftikhar.dev/tags/reactnative</loc>
+    <loc>https://azamiftikhar.dev/tags/productivity</loc>
   </url>
 
   <url>
@@ -113,7 +113,11 @@
   </url>
 
   <url>
-    <loc>https://azamiftikhar.dev/tags/productivity</loc>
+    <loc>https://azamiftikhar.dev/tags/reactnative</loc>
+  </url>
+
+  <url>
+    <loc>https://azamiftikhar.dev/tags/terraform</loc>
   </url>
 
   <url>
@@ -121,16 +125,18 @@
   </url>
 
   <url>
-    <loc>https://azamiftikhar.dev/tags/terraform</loc>
+    <loc>https://azamiftikhar.dev/tags/python</loc>
   </url>
 
+  <url>
+    <loc>https://azamiftikhar.dev/tags/tutorial</loc>
+  </url>
 
+  <url>
+    <loc>https://azamiftikhar.dev/tags/typescript</loc>
+  </url>
 
   <url>
     <loc>https://azamiftikhar.dev/tags/webpack</loc>
-  </url>
-
-  <url>
-    <loc>https://azamiftikhar.dev/tags/algorithim</loc>
   </url>
 </urlset>

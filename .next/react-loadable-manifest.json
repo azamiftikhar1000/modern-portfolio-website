@@ -1,32 +1,32 @@
 {
   "../components/ClientReload.tsx -> socket.io-client": {
-    "id": "../components/ClientReload.tsx -> socket.io-client",
+    "id": 8765,
     "files": [
-      "static/chunks/node_modules_socket_io-client_build_esm_index_js.js"
+      "static/chunks/765.67f0fa12b12a995e.js"
     ]
   },
   "../components/comments/index.tsx -> @/components/comments/Disqus": {
-    "id": "../components/comments/index.tsx -> @/components/comments/Disqus",
+    "id": 5971,
     "files": [
-      "static/chunks/components_comments_Disqus_tsx.js"
+      "static/chunks/971.e6434e679561a64e.js"
     ]
   },
   "../components/comments/index.tsx -> @/components/comments/Giscus": {
-    "id": "../components/comments/index.tsx -> @/components/comments/Giscus",
+    "id": 5655,
     "files": [
-      "static/chunks/components_comments_Giscus_tsx.js"
+      "static/chunks/655.13bf203ed57223de.js"
     ]
   },
   "../components/comments/index.tsx -> @/components/comments/Utterances": {
-    "id": "../components/comments/index.tsx -> @/components/comments/Utterances",
+    "id": 6864,
     "files": [
-      "static/chunks/components_comments_Utterances_tsx.js"
+      "static/chunks/864.7a4f2f3fb7af5d36.js"
     ]
   },
   "index.tsx -> @/components/Banner": {
-    "id": "index.tsx -> @/components/Banner",
+    "id": 6682,
     "files": [
-      "static/chunks/components_Banner_tsx.js"
+      "static/chunks/682.c629d5182fbeb92c.js"
     ]
   }
 }
