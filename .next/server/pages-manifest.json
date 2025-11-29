@@ -1,5 +1,5 @@
 {
-  "/404": "pages/404.html",
+  "/404": "pages/404.js",
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
   "/about": "pages/about.js",
@@ -10,12 +10,12 @@
   "/blog": "pages/blog.js",
   "/blog/[...slug]": "pages/blog/[...slug].js",
   "/blog/page/[page]": "pages/blog/page/[page].js",
-  "/contact": "pages/contact.html",
-  "/courses": "pages/courses.html",
+  "/contact": "pages/contact.js",
+  "/courses": "pages/courses.js",
   "/courses/[...slug]": "pages/courses/[...slug].js",
   "/": "pages/index.js",
   "/projects/[slug]": "pages/projects/[slug].js",
-  "/projects": "pages/projects.html",
+  "/projects": "pages/projects.js",
   "/tags": "pages/tags.js",
   "/tags/[tag]": "pages/tags/[tag].js",
   "/_error": "pages/_error.js"

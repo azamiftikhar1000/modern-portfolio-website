@@ -19,6 +19,7 @@ const ContentSecurityPolicy = `
  **/
 module.exports = withBundleAnalyzer({
   reactStrictMode: true,
+  output: 'export',
   pageExtensions: ['ts', 'tsx', 'js', 'jsx', 'md', 'mdx'],
   eslint: {
     dirs: ['pages', 'components', 'lib', 'layouts', 'scripts', 'config'],
@@ -26,31 +27,11 @@ module.exports = withBundleAnalyzer({
   images: {
     unoptimized: true,
   },
-  // Exclude API routes from static export
-  exportPathMap: async function (defaultPathMap) {
-    const pathMap = {};
-    for (const path in defaultPathMap) {
-      if (!path.startsWith('/api/')) {
-        pathMap[path] = defaultPathMap[path];
-      }
-    }
-    return pathMap;
-  },
   webpack: (config, { dev, isServer }) => {
     config.module.rules.push({
       test: /\.svg$/,
       use: ['@svgr/webpack'],
     });
-
-    if (!dev && !isServer) {
-      // Replace React with Preact only in client production build
-      Object.assign(config.resolve.alias, {
-        'react/jsx-runtime.js': 'preact/compat/jsx-runtime',
-        react: 'preact/compat',
-        'react-dom/test-utils': 'preact/test-utils',
-        'react-dom': 'preact/compat',
-      });
-    }
 
     return config;
   },
