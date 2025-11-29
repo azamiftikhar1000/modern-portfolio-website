@@ -26,6 +26,16 @@ module.exports = withBundleAnalyzer({
   images: {
     unoptimized: true,
   },
+  // Exclude API routes from static export
+  exportPathMap: async function (defaultPathMap) {
+    const pathMap = {};
+    for (const path in defaultPathMap) {
+      if (!path.startsWith('/api/')) {
+        pathMap[path] = defaultPathMap[path];
+      }
+    }
+    return pathMap;
+  },
   webpack: (config, { dev, isServer }) => {
     config.module.rules.push({
       test: /\.svg$/,
