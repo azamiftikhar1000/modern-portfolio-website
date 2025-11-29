@@ -24,19 +24,19 @@ export default function Share(props: ShareProps): React.ReactElement {
   return (
     <div className='flex items-center justify-center pt-2'>
       <div className='flex w-44 items-center justify-between'>
-        <TwitterShareButton title={title} url={url}>
+        <TwitterShareButton title={title} url={url} {...({} as any)}>
           <TwitterIcon size={22} color={Colors.twitter} />
         </TwitterShareButton>
-        <RedditShareButton title={title} url={url}>
+        <RedditShareButton title={title} url={url} {...({} as any)}>
           <RedditIcon size={22} color={Colors.reddit} />
         </RedditShareButton>
-        <FacebookShareButton title={title} url={url}>
+        <FacebookShareButton title={title} url={url} {...({} as any)}>
           <FacebookIcon size={22} color={Colors.facebook} />
         </FacebookShareButton>
-        <LinkedinShareButton title={title} url={url}>
+        <LinkedinShareButton title={title} url={url} {...({} as any)}>
           <LinkedinIcon size={22} color={Colors.linkedin} />
         </LinkedinShareButton>
-        <EmailShareButton title={title} url={url}>
+        <EmailShareButton title={title} url={url} {...({} as any)}>
           <EmailIcon size={22} color={Colors.email} />
         </EmailShareButton>
       </div>

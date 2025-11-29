@@ -37,19 +37,19 @@
   </url>
 
   <url>
-    <loc>https://azamiftikhar.dev/tags/beginners</loc>
-  </url>
-
-  <url>
     <loc>https://azamiftikhar.dev/tags/backend</loc>
   </url>
 
   <url>
-    <loc>https://azamiftikhar.dev/tags/devops</loc>
+    <loc>https://azamiftikhar.dev/tags/beginners</loc>
   </url>
 
   <url>
     <loc>https://azamiftikhar.dev/tags/distributedsystems</loc>
+  </url>
+
+  <url>
+    <loc>https://azamiftikhar.dev/tags/devops</loc>
   </url>
 
   <url>
@@ -113,10 +113,6 @@
   </url>
 
   <url>
-    <loc>https://azamiftikhar.dev/tags/react</loc>
-  </url>
-
-  <url>
     <loc>https://azamiftikhar.dev/tags/reactnative</loc>
   </url>
 
@@ -125,11 +121,11 @@
   </url>
 
   <url>
-    <loc>https://azamiftikhar.dev/tags/webpack</loc>
+    <loc>https://azamiftikhar.dev/tags/react</loc>
   </url>
 
   <url>
-    <loc>https://azamiftikhar.dev/tags/typescript</loc>
+    <loc>https://azamiftikhar.dev/tags/terraform</loc>
   </url>
 
   <url>
@@ -137,6 +133,10 @@
   </url>
 
   <url>
-    <loc>https://azamiftikhar.dev/tags/terraform</loc>
+    <loc>https://azamiftikhar.dev/tags/webpack</loc>
+  </url>
+
+  <url>
+    <loc>https://azamiftikhar.dev/tags/typescript</loc>
   </url>
 </urlset>
