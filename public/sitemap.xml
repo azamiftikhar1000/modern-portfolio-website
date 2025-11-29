@@ -37,11 +37,11 @@
   </url>
 
   <url>
-    <loc>https://azamiftikhar.dev/tags/backend</loc>
+    <loc>https://azamiftikhar.dev/tags/beginners</loc>
   </url>
 
   <url>
-    <loc>https://azamiftikhar.dev/tags/beginners</loc>
+    <loc>https://azamiftikhar.dev/tags/backend</loc>
   </url>
 
   <url>
@@ -77,11 +77,11 @@
   </url>
 
   <url>
-    <loc>https://azamiftikhar.dev/tags/monitoring</loc>
+    <loc>https://azamiftikhar.dev/tags/microservices</loc>
   </url>
 
   <url>
-    <loc>https://azamiftikhar.dev/tags/microservices</loc>
+    <loc>https://azamiftikhar.dev/tags/monitoring</loc>
   </url>
 
   <url>
@@ -109,6 +109,10 @@
   </url>
 
   <url>
+    <loc>https://azamiftikhar.dev/tags/python</loc>
+  </url>
+
+  <url>
     <loc>https://azamiftikhar.dev/tags/react</loc>
   </url>
 
@@ -117,19 +121,11 @@
   </url>
 
   <url>
-    <loc>https://azamiftikhar.dev/tags/terraform</loc>
-  </url>
-
-  <url>
     <loc>https://azamiftikhar.dev/tags/system-design</loc>
   </url>
 
   <url>
-    <loc>https://azamiftikhar.dev/tags/python</loc>
-  </url>
-
-  <url>
-    <loc>https://azamiftikhar.dev/tags/tutorial</loc>
+    <loc>https://azamiftikhar.dev/tags/webpack</loc>
   </url>
 
   <url>
@@ -137,6 +133,10 @@
   </url>
 
   <url>
-    <loc>https://azamiftikhar.dev/tags/webpack</loc>
+    <loc>https://azamiftikhar.dev/tags/tutorial</loc>
+  </url>
+
+  <url>
+    <loc>https://azamiftikhar.dev/tags/terraform</loc>
   </url>
 </urlset>
