@@ -19,6 +19,7 @@ const ContentSecurityPolicy = `
  **/
 module.exports = withBundleAnalyzer({
   reactStrictMode: true,
+  output: 'export',
   pageExtensions: ['ts', 'tsx', 'js', 'jsx', 'md', 'mdx'],
   eslint: {
     dirs: ['pages', 'components', 'lib', 'layouts', 'scripts', 'config'],
