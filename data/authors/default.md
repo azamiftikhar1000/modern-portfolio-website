@@ -20,4 +20,6 @@ I am a seasoned Machine Learning Engineer with 10+ years of experience in Machin
 
 * Recently working on GenAI and LLMs with companies like MizouAI and CallidusAI
 
+* Founding member and software engineer at StrongSuit, an AI legal tech startup backed by a $10M Seed round. Played a key role in developing a platform that integrates a 10M+ case database with AI models, automating complex document drafting and reducing 40-hour litigation workflows down to minutes
+
 Ready to partner with businesses and take them to the next level through AI-driven solutions
