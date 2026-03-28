@@ -2,23 +2,25 @@
 name: Azam Iftikhar
 shortname: Azam
 avatar: /static/avatar.jpg
-occupation: ML Engineer and Software Developer 
+occupation: AI & Technology Leader
 email: azamiftikhar1000@gmail.com
 github: https://github.com/azamiftikhar1000
 ---
-I am a seasoned Machine Learning Engineer with 10+ years of experience in Machine Learning, GenAI, and Software Development. My focus is on helping startups and enterprises leverage AI to boost their revenue and gain a competitive edge.
+I am a technology leader with 12 years of experience in AI, GenAI, and Software Development. My focus is on helping startups and enterprises leverage AI to boost their revenue and gain a competitive edge.
 
-* Successfully generated over $50M in revenue for a mid-scale startup through AI solutions
+* Led AI initiatives that generated over $50M in revenue for a mid-scale startup
 
-* Led a project utilizing Computer Vision to detect [Covid from eye images](https://currentph.com/2021/06/30/covid-19-detection-and-protection-fastest-through-idetect-via-a1-intelligence/), resulting in $12.6M funding and acquisition by a S&P 500 company
+* Spearheaded a Computer Vision project to detect [Covid from eye images](https://currentph.com/2021/06/30/covid-19-detection-and-protection-fastest-through-idetect-via-a1-intelligence/), resulting in $12.6M funding and acquisition by a S&P 500 company
 
-* "Top Rated Plus" freelancer on Upwork, placing in the top 1% of talent on the platform
+* "Top Rated Plus" on Upwork, ranking in the top 1% of talent on the platform
 
 * Holds a Master's in Information Technology
 
-* Have made significant open-source contributions to libraries, including LangChain
+* Key open-source contributor to libraries including LangChain
 
-* Recently working on GenAI and LLMs with companies like MizouAI and CallidusAI
+* Leading GenAI and LLM initiatives with companies like MizouAI and CallidusAI
+
+* Led SaaS projects at PrivateID, adopted by companies like Google
 
 * Technical Founding Member at StrongSuit, a $10M-funded AI legal tech startup. Built a platform integrating 10M+ cases with AI to automate document drafting, cutting 40-hour workflows to minutes
 
