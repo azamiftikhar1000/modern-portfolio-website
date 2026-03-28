@@ -6,7 +6,7 @@ occupation: AI & Technology Leader
 email: azamiftikhar1000@gmail.com
 github: https://github.com/azamiftikhar1000
 ---
-I am a technology leader with 12 years of experience in AI, GenAI, and Software Development. My focus is on helping startups and enterprises leverage AI to boost their revenue and gain a competitive edge.
+I am a CTO-level Technology Leader with 12 years of experience in AI, SaaS, GenAI, and Software Development. My focus is on helping startups and enterprises leverage AI to boost their revenue and gain a competitive edge.
 
 * Led AI initiatives that generated over $50M in revenue for a mid-scale startup
 
