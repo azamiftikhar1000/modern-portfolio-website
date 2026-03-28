@@ -20,7 +20,7 @@ I am a CTO-level Technology Leader with 12 years of experience in AI, SaaS, GenA
 
 * Leading GenAI and LLM initiatives with companies like MizouAI and CallidusAI
 
-* Led SaaS projects at PrivateID, adopted by companies like Google
+* Led SaaS development at PrivateID, building solutions adopted by major clients including Google, Uber, and other enterprise companies
 
 * Technical Founding Member at StrongSuit, a $10M-funded AI legal tech startup. Built a platform integrating 10M+ cases with AI to automate document drafting, cutting 40-hour workflows to minutes
 
